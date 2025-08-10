@@ -433,13 +433,19 @@ Nous nous engageons ainsi que dans la sélection de nos partenaires d'hébergeme
 ### 14.1 Coordonnées complètes
 
 **UnxWares SAS**
+
 78 Avenue des Champs-Élysées, Bureau 326
+
 75008 Paris, France
 
 **Téléphone :** +33 6 70 33 02 22
+
 **E-mail général :** contact@unxwares.com
+
 **E-mail commercial :** commercial@unxwares.com
+
 **E-mail technique :** support@unxwares.com
+
 **E-mail DPO :** dpo@unxwares.com
 
 **Horaires d'ouverture :**
