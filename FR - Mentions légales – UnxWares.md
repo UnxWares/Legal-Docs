@@ -65,7 +65,7 @@ Rue Eugène-Marziano, 25, CH - 1227 Genève - Suisse
 
 ### 3.1 Propriété intellectuelle
 
-L'ensemble des éléments présents sur le site (textes, images, graphismes, logos, icônes, vidéos, sons, logiciels, codes sources, bases de données, structure, design, charte graphique, arborescence, et plus généralement toute création intellectuelle) est la propriété exclusive de UnxWares ou fait l'objet d'autorisations d'utilisation.
+L'ensemble des éléments présents sur le site (textes, images, graphismes, logos, icônes, vidéos, sons, logiciels, codes sources, bases de données, structure, design, charte graphique, arborescence, et plus généralement toute création intellectuelle) est la propriété exclusive de **UnxWares** ou fait l'objet d'autorisations d'utilisation.
 
 Toute reproduction, représentation, modification, publication, transmission, décompilation, ingénierie inverse, ou adaptation, totale ou partielle, de ces éléments, par quelque moyen que ce soit et sur quelque support que ce soit, est interdite, sauf autorisation écrite préalable de **UnxWares**.
 
