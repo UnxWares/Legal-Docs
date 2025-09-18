@@ -30,7 +30,7 @@ Vente de services informatiques, conseil en technologies de l'information, solut
 
 Le site unxwares.com est hébergé via une architecture distribuée faisant intervenir plusieurs prestataires :
 
-### 2.1 Infrastructure réseau
+### 2.1 Infrastructure réseau et plateforme de gestion
 
 **Fournisseur :** Netaris – SASU au capital social de 1 000 €, immatriculée au RCS de Paris sous le numéro 940 260 391, dont le siège social est situé :
 149 Avenue du Maine, 75014 Paris, France
@@ -38,26 +38,26 @@ Le site unxwares.com est hébergé via une architecture distribuée faisant inte
 - **SIRET :** 940 260 391 00013
 - **Numéro de TVA intracommunautaire :** FR39 940 260 391
 
-### 2.2 Plateforme de gestion
-
-**Fournisseur :** LibraHost – SASU au capital social de 1 000 €, immatriculée au RCS de Paris sous le numéro 942 515 628, dont le siège social est situé :
-40 Rue Alexandre Dumas, 75011 Paris, France
-
-- **SIRET :** 942 515 628 00017
-- **Numéro de TVA intracommunautaire :** FR00 942 515 628
-
-### 2.3 Infrastructure interne
+### 2.2 Infrastructure interne
 
 L'hébergement principal et la gestion des données sont assurés directement par **UnxWares**, SAS au capital social de 1 000 €, immatriculée au RCS de Paris sous le numéro 945 207 991, dont le siège social est situé :
 78 Avenue des Champs-Élysées, Bureau 326, 75008 Paris, France
 
-### 2.4 Noms de domaine et DNS
+### 2.3 Noms de domaine, DNS, sauvegardes, logs, et stockage des données internes
 
 **Fournisseur :** Informaniak – SA au capital social de 102 000 CHF, immatriculée en Suisse sous le numéro CH - 660 - 0059996 - 1, dont le siège social est situé :
 Rue Eugène-Marziano, 25, CH - 1227 Genève - Suisse
 
 - **Dénomination :** Infomaniak Network SA
 - **Numéro de TVA intracommunautaire :** EU44 200 8675
+
+### 2.4 Infrastructure mail
+
+**Fournisseur :** LibraHost – SASU au capital social de 1 000 €, immatriculée au RCS de Paris sous le numéro 942 515 628, dont le siège social est situé :
+40 Rue Alexandre Dumas, 75011 Paris, France
+
+- **SIRET :** 942 515 628 00017
+- **Numéro de TVA intracommunautaire :** FR00 942 515 628
 
 ---
 
