@@ -451,7 +451,7 @@ Nous nous engageons ainsi que dans la sélection de nos partenaires d'hébergeme
 ### 14.2 Réseaux sociaux
 
 - LinkedIn : [UnxWares | LinkedIn](https://linkedin.com/company/unxwares) - linkedin.com/company/unxwares
-- Discord : [UnxWares | Discord](https://discord.gg/e8qec6JAXd) - discord.gg/e8qec6JAXd
+- Discord : [UnxWares | Discord](https://discord.gg/PPRacEf7yB) - discord.gg/PPRacEf7yB
 - Instagram : [UnxWares | Instagram](https://www.instagram.com/unxwares) - @unxwares
 - BlueSky : [UnxWares | BlueSky](https://bsky.app/profile/unxwares.bsky.social) - @unxwares.bsky.social
 - GitHub : [UnxWares | GitHub](https://github.com/UnxWares) - github.com/UnxWares
