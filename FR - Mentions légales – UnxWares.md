@@ -53,11 +53,11 @@ Rue Eugène-Marziano, 25, CH - 1227 Genève - Suisse
 
 ### 2.4 Infrastructure mail
 
-**Fournisseur :** LibraHost – SASU au capital social de 1 000 €, immatriculée au RCS de Paris sous le numéro 942 515 628, dont le siège social est situé :
-40 Rue Alexandre Dumas, 75011 Paris, France
+**Fournisseur :** Hetzner – GmbH, immatriculée en Allemagne sous le numéro HRB 6089 auprès de l'Ansbach Registration Office, dont le siège social est situé :
+Industriestr. 25, 91710 Gunzenhausen - Allemagne
 
-- **SIRET :** 942 515 628 00017
-- **Numéro de TVA intracommunautaire :** FR00 942 515 628
+- **Dénomination :** Hetzner Online GmbH
+- **Numéro de TVA intracommunautaire :** DE 812871812
 
 ---
 
