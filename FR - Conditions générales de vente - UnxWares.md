@@ -16,10 +16,9 @@
 ### 💳 Facturation et paiement
 
 - **Facturation au début de chaque période** (hebdo/mensuel/annuel)
-- **Paiement à 15 jours** via Stripe (CB sécurisée)
+- **Paiement à 15 jours** via Stripe
 - **Suspension automatique au 15e jour** en cas de non-paiement
-- **Prélèvement automatique recommandé** pour éviter les oublis
-- Prix HT pour professionnels, TTC pour particuliers
+- Prix **HT** pour professionnels, **TTC** pour particuliers
 
 ### 🎁 Période d'essai
 
@@ -28,12 +27,12 @@
 - **Facturation annuelle : 21 jours gratuits**
 - **Une seule période d'essai** par service et par client
 - **Résiliation gratuite** à tout moment pendant l'essai
-- **Abus détecté = facturation immédiate** (comptes multiples, même contenu après résiliation)
+- **En cas d'abus détecté, facturation immédiate** (comptes multiples, même contenu après résiliation)
 
 ### 📅 Engagement et renouvellement
 
 - **Facturation hebdomadaire = engagement minimum 1 mois** (4 semaines)
-- **Renouvellement automatique** sauf résiliation de votre part
+- **Renouvellement automatique** sauf résiliation de votre part à l'avance
 - **Période entamée = intégralement due** (pas de remboursement au prorata)
 - Notification avant chaque renouvellement et émission de facture
 
@@ -41,7 +40,7 @@
 
 - **Possible à tout moment, sans préavis ni pénalité**
 - **Prend effet à la fin de la période en cours**
-- Doit être faite AVANT l'émission de la facture suivante
+- Doit être faite **AVANT** l'émission de la facture suivante
 - **Période de grâce 7 jours** après résiliation pour récupérer vos données
 - **Suppression définitive après 7 jours** - pensez à sauvegarder !
 
@@ -61,7 +60,7 @@ Possible en cas de :
 
 ### ⚠️ Points à retenir absolument
 
-- **15 jours pour payer → sinon suspension immédiate**
+- **15 jours pour payer sinon suspension immédiate**
 - **Toute période entamée est due intégralement**
 - **Récupérez vos données dans les 7 jours après résiliation**
 - **Facturation hebdo = 1 mois minimum d'engagement**
@@ -70,7 +69,7 @@ Possible en cas de :
 ### 🛡️ Garanties
 
 - Services conformes aux caractéristiques annoncées
-- Garanties légales pour les consommateurs (conformité, vices cachés)
+- Garanties légales pour les consommateurs (droits du consomateur)
 - SLA selon votre offre (disponibilité, compensation)
 
 ### 🤝 Litiges
