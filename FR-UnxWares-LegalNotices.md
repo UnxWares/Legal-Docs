@@ -4,6 +4,28 @@
 
 **Dernière mise à jour : 10/08/2025**
 
+---
+
+## Table des matières
+
+1. [Éditeur du site](#1)
+2. [Hébergeur du site](#2)
+3. [Propriété intellectuelle et conditions d'utilisation](#3)
+4. [Données personnelles](#4)
+5. [Politique de sécurité et disponibilité](#5)
+6. [Conditions d'utilisation du service](#6)
+7. [Conditions commerciales et facturation](#7)
+8. [Gestion des réclamations et litiges](#8)
+9. [Obligations légales de l'hébergeur (LCEN)](#9)
+10. [Crédits et ressources externes](#10)
+11. [Politique Open Source et propriété intellectuelle](#11)
+12. [Accessibilité numérique](#12)
+13. [Environnement et responsabilité sociétale](#13)
+14. [Contact et informations pratiques](#14)
+
+---
+
+<a id="1"></a>
 ## 1. Éditeur du site
 
 Le présent site est édité par **UnxWares**, Société par Actions Simplifiée (SAS) au capital social de 1 000 €, immatriculée au Registre du Commerce et des Sociétés de Paris sous le numéro 945 207 991, dont le siège social est situé :
@@ -26,6 +48,7 @@ Vente de services informatiques, conseil en technologies de l'information, solut
 
 ---
 
+<a id="2"></a>
 ## 2. Hébergeur du site
 
 Le site unxwares.com est hébergé via une architecture distribuée faisant intervenir plusieurs prestataires :
@@ -61,6 +84,7 @@ Industriestr. 25, 91710 Gunzenhausen - Allemagne
 
 ---
 
+<a id="3"></a>
 ## 3. Propriété intellectuelle et conditions d'utilisation
 
 ### 3.1 Propriété intellectuelle
@@ -108,6 +132,7 @@ L'utilisation des services proposés par **UnxWares** implique l'acceptation san
 
 ---
 
+<a id="4"></a>
 ## 4. Données personnelles
 
 **Politique de confidentialité séparée :** 
@@ -121,6 +146,7 @@ Les informations détaillées concernant la collecte, l'utilisation, le stockage
 
 ---
 
+<a id="5"></a>
 ## 5. Politique de sécurité et disponibilité
 
 ### 5.1 Engagements de sécurité
@@ -178,6 +204,7 @@ Les informations détaillées concernant la collecte, l'utilisation, le stockage
 
 ---
 
+<a id="6"></a>
 ## 6. Conditions d'utilisation du service
 
 ### 6.1 Accès au service
@@ -210,6 +237,7 @@ L'utilisateur s'engage à :
 
 ---
 
+<a id="7"></a>
 ## 7. Conditions commerciales et facturation
 
 ### 7.1 Prix et modalités de paiement
@@ -237,6 +265,7 @@ Pour les services de consommation, l'utilisateur dispose d'un délai de 14 jours
 
 ---
 
+<a id="8"></a>
 ## 8. Gestion des réclamations et litiges
 
 ### 8.1 Service client
@@ -265,6 +294,7 @@ En cas de litige, et à défaut d'accord amiable ou de médiation réussie, comp
 
 ---
 
+<a id="9"></a>
 ## 9. Obligations légales de l'hébergeur (LCEN)
 
 ### 9.1 Statut d'hébergeur
@@ -304,6 +334,7 @@ Tout signalement doit comporter :
 
 ---
 
+<a id="10"></a>
 ## 10. Crédits et ressources externes
 
 ### 10.1 Conception et réalisation
@@ -344,6 +375,7 @@ Toute utilisation, reproduction ou redistribution non autorisée des éléments 
 
 ---
 
+<a id="11"></a>
 ## 11. Politique Open Source et propriété intellectuelle
 
 ### 11.1 Protection des droits
@@ -387,6 +419,7 @@ Les contributions externes à nos projets open source sont les bienvenues selon 
 
 ---
 
+<a id="12"></a>
 ## 12. Accessibilité numérique
 
 ### 12.1 Engagement accessibilité
@@ -411,6 +444,7 @@ En cas de non-réponse ou de réponse non satisfaisante, vous pouvez :
 
 ---
 
+<a id="13"></a>
 ## 13. Environnement et responsabilité sociétale
 
 ### 13.1 Démarche éco-responsable
@@ -428,6 +462,7 @@ Nous nous engageons ainsi que dans la sélection de nos partenaires d'hébergeme
 
 ---
 
+<a id="14"></a>
 ## 14. Contact et informations pratiques
 
 ### 14.1 Coordonnées complètes

@@ -9,102 +9,31 @@
 
 ---
 
-## ⚡ Summary of key points
-
-**This summary version gives you a quick overview. Only the full version below is legally binding.**
-
-### 💳 Billing and payment
-
-- **Billing at the beginning of each period** (weekly/monthly/annual)
-- **15-day payment term** via Stripe
-- **Automatic suspension on the 15th day** in case of non-payment
-- Prices **excluding VAT** for businesses, **including VAT** for individuals
-
-### 🎁 Trial period
-
-- **Weekly billing: 2 free days**
-- **Monthly billing: 7 free days**
-- **Annual billing: 21 free days**
-- **Only one trial period** per service and per customer
-- **Free cancellation** at any time during the trial
-- **In case of detected abuse, immediate billing** (multiple accounts, same content after cancellation)
-
-### 📅 Commitment and renewal
-
-- **Weekly billing = 1-month minimum commitment** (4 weeks)
-- **Automatic renewal** unless you cancel in advance
-- **Started period = fully payable** (no pro-rata refund)
-- Notification before each renewal and invoice issuance
-
-### ❌ Cancellation by you
-
-- **Possible at any time, without notice or penalty**
-- **Takes effect at the end of the current period**
-- Must be done **BEFORE** the next invoice is issued
-- **7-day grace period** after cancellation to recover your data
-- **Permanent deletion after 7 days** - remember to back up!
-
-### 🚫 Termination by UnxWares
-
-Possible in case of:
-
-- Persistent non-payment after suspension
-- Serious violation of T&C/Terms of Use
-- Illegal or dangerous activities
-- In all cases: amounts due remain payable, no refund
-
-### 🔄 Right of withdrawal
-
-- **Individual customers**: replaced by free trial period (more advantageous)
-- **Business customers**: no right of withdrawal (B2B)
-
-### ⚠️ Absolutely important points
-
-- **15 days to pay otherwise immediate suspension**
-- **Any started period is fully payable**
-- **Recover your data within 7 days after cancellation**
-- **Weekly billing = 1-month minimum commitment**
-- **Trial period abuse = immediate billing + closed account**
-
-### 🛡️ Warranties
-
-- Services conforming to advertised features
-- Legal warranties for consumers (consumer rights)
-- SLA according to your plan (availability, compensation)
-
-### 🤝 Disputes
-
-- **Always prioritize contact with our support**
-- Free mediation for consumers
-- Amicable resolution before any legal proceedings
-- Contact: help@unxwares.com
-
----
-
 ## 📄 Full version of the T&C
 
 ---
 
 ## Table of contents
 
-1. [Definitions](#1-definitions)
-2. [Purpose and scope](#2-purpose-and-scope)
-3. [Products and services offered](#3-products-and-services-offered)
-4. [Order and subscription](#4-order-and-subscription)
-5. [Pricing](#5-pricing)
-6. [Payment terms](#6-payment-terms)
-7. [Trial period and right of withdrawal](#7-trial-period-and-right-of-withdrawal)
-8. [Duration, renewal and cancellation](#8-duration-renewal-and-cancellation)
-9. [Delivery and service access](#9-delivery-and-service-access)
-10. [Termination by UnxWares](#10-termination-by-unxwares)
-11. [Commercial warranties](#11-commercial-warranties)
-12. [Complaints and disputes](#12-complaints-and-disputes)
-13. [Amendment of T&C](#13-amendment-of-tc)
-14. [General provisions](#14-general-provisions)
-15. [Contact](#15-contact)
+1. [Definitions](#1)
+2. [Purpose and scope](#2)
+3. [Products and services offered](#3)
+4. [Order and subscription](#4)
+5. [Pricing](#5)
+6. [Payment terms](#6)
+7. [Trial period and right of withdrawal](#7)
+8. [Duration, renewal and cancellation](#8)
+9. [Delivery and service access](#9)
+10. [Termination by UnxWares](#10)
+11. [Commercial warranties](#11)
+12. [Complaints and disputes](#12)
+13. [Amendment of T&C](#13)
+14. [General provisions](#14)
+15. [Contact](#15)
 
 ---
 
+<a id="1"></a>
 ## 1. Definitions
 
 In these Terms and Conditions of Sale, the following terms have the following meaning:
@@ -128,6 +57,7 @@ In these Terms and Conditions of Sale, the following terms have the following me
 
 ---
 
+<a id="2"></a>
 ## 2. Purpose and scope
 
 ### 2.1. Purpose
@@ -160,6 +90,7 @@ The contract between UnxWares and the Customer consists of:
 
 ---
 
+<a id="3"></a>
 ## 3. Products and services offered
 
 ### 3.1. General description
@@ -198,6 +129,7 @@ UnxWares reserves the right to evolve its commercial offers, create new ones or 
 
 ---
 
+<a id="4"></a>
 ## 4. Order and subscription
 
 ### 4.1. Order process
@@ -266,6 +198,7 @@ For business Customers, invoices include mandatory legal mentions in accordance 
 
 ---
 
+<a id="5"></a>
 ## 5. Pricing
 
 ### 5.1. Pricing
@@ -325,6 +258,7 @@ UnxWares may offer temporary promotional pricing. These promotions:
 
 ---
 
+<a id="6"></a>
 ## 6. Payment terms
 
 ### 6.1. Accepted payment methods
@@ -485,6 +419,7 @@ Invoice dispute does not exempt the Customer from their obligation to pay on tim
 
 ---
 
+<a id="7"></a>
 ## 7. Trial period and right of withdrawal
 
 ### 7.1. Free trial period
@@ -567,6 +502,7 @@ The right of withdrawal does not apply in accordance with B2B regulations.
 
 ---
 
+<a id="8"></a>
 ## 8. Duration, renewal and cancellation
 
 ### 8.1. Contract duration
@@ -660,6 +596,7 @@ Cancellation will take effect at end of current Billing period, under old condit
 
 ---
 
+<a id="9"></a>
 ## 9. Delivery and service access
 
 ### 9.1. Service provision
@@ -702,6 +639,7 @@ The contract will then be terminated by operation of law and any payment already
 
 ---
 
+<a id="10"></a>
 ## 10. Termination by UnxWares
 
 ### 10.1. Termination for non-payment
@@ -756,6 +694,7 @@ Following termination for breach, UnxWares reserves the right to **definitively 
 
 ---
 
+<a id="11"></a>
 ## 11. Commercial warranties
 
 ### 11.1. Conformity warranty
@@ -806,6 +745,7 @@ Above warranties do not apply in the following cases:
 
 ---
 
+<a id="12"></a>
 ## 12. Complaints and disputes
 
 ### 12.1. Customer service and complaints
@@ -880,6 +820,7 @@ Legal rules of territorial jurisdiction apply in accordance with consumer protec
 
 ---
 
+<a id="13"></a>
 ## 13. Amendment of T&C
 
 ### 13.1. Right to amend
@@ -925,6 +866,7 @@ History of previous versions may be provided upon written request to justify con
 
 ---
 
+<a id="14"></a>
 ## 14. General provisions
 
 ### 14.1. Entire agreement
@@ -1027,6 +969,7 @@ Provisions of these T&C which, by their nature, are intended to survive expirati
 
 ---
 
+<a id="15"></a>
 ## 15. Contact
 
 For any question relating to these T&C, commercial aspects, billing or orders, Customer may contact UnxWares:

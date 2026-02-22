@@ -4,6 +4,28 @@
 
 **Ultimo aggiornamento: 10/08/2025**
 
+---
+
+## Indice
+
+1. [Editore del sito](#1)
+2. [Hosting del sito](#2)
+3. [Proprietà intellettuale e condizioni d'uso](#3)
+4. [Dati personali](#4)
+5. [Politica di sicurezza e disponibilità](#5)
+6. [Condizioni d'uso del servizio](#6)
+7. [Condizioni commerciali e fatturazione](#7)
+8. [Gestione dei reclami e delle controversie](#8)
+9. [Obblighi legali dell'host (LCEN)](#9)
+10. [Crediti e risorse esterne](#10)
+11. [Politica Open Source e proprietà intellettuale](#11)
+12. [Accessibilità digitale](#12)
+13. [Ambiente e responsabilità sociale](#13)
+14. [Contatto e informazioni pratiche](#14)
+
+---
+
+<a id="1"></a>
 ## 1. Editore del sito
 
 Il presente sito è pubblicato da **UnxWares**, Società per Azioni Semplificata (SAS) con un capitale sociale di 1.000 €, iscritta al Registro delle Imprese e delle Società di Parigi con il numero 945 207 991, con sede legale in:
@@ -26,6 +48,7 @@ Vendita di servizi informatici, consulenza in tecnologie dell'informazione, solu
 
 ---
 
+<a id="2"></a>
 ## 2. Hosting del sito
 
 Il sito unxwares.com è ospitato tramite un'architettura distribuita che coinvolge diversi fornitori:
@@ -61,6 +84,7 @@ Industriestr. 25, 91710 Gunzenhausen - Germania
 
 ---
 
+<a id="3"></a>
 ## 3. Proprietà intellettuale e condizioni d'uso
 
 ### 3.1 Proprietà intellettuale
@@ -108,6 +132,7 @@ L'uso dei servizi offerti da **UnxWares** implica l'accettazione senza riserve d
 
 ---
 
+<a id="4"></a>
 ## 4. Dati personali
 
 **Informativa sulla privacy separata:**
@@ -121,6 +146,7 @@ Le informazioni dettagliate relative alla raccolta, all'uso, alla conservazione 
 
 ---
 
+<a id="5"></a>
 ## 5. Politica di sicurezza e disponibilità
 
 ### 5.1 Impegni di sicurezza
@@ -178,6 +204,7 @@ Le informazioni dettagliate relative alla raccolta, all'uso, alla conservazione 
 
 ---
 
+<a id="6"></a>
 ## 6. Condizioni d'uso del servizio
 
 ### 6.1 Accesso al servizio
@@ -210,6 +237,7 @@ L'utente si impegna a:
 
 ---
 
+<a id="7"></a>
 ## 7. Condizioni commerciali e fatturazione
 
 ### 7.1 Prezzi e modalità di pagamento
@@ -237,6 +265,7 @@ Per i servizi di consumo, l'utente dispone di un periodo di 14 giorni per eserci
 
 ---
 
+<a id="8"></a>
 ## 8. Gestione dei reclami e delle controversie
 
 ### 8.1 Servizio clienti
@@ -265,6 +294,7 @@ In caso di controversia, e in assenza di accordo amichevole o mediazione riuscit
 
 ---
 
+<a id="9"></a>
 ## 9. Obblighi legali dell'host (LCEN)
 
 ### 9.1 Status di host
@@ -304,6 +334,7 @@ Qualsiasi segnalazione deve includere:
 
 ---
 
+<a id="10"></a>
 ## 10. Crediti e risorse esterne
 
 ### 10.1 Progettazione e realizzazione
@@ -344,6 +375,7 @@ Qualsiasi uso, riproduzione o ridistribuzione non autorizzati di elementi protet
 
 ---
 
+<a id="11"></a>
 ## 11. Politica Open Source e proprietà intellettuale
 
 ### 11.1 Protezione dei diritti
@@ -387,6 +419,7 @@ I contributi esterni ai nostri progetti open source sono benvenuti secondo le no
 
 ---
 
+<a id="12"></a>
 ## 12. Accessibilità digitale
 
 ### 12.1 Impegno per l'accessibilità
@@ -411,6 +444,7 @@ In caso di mancata risposta o risposta insoddisfacente, potete:
 
 ---
 
+<a id="13"></a>
 ## 13. Ambiente e responsabilità sociale
 
 ### 13.1 Approccio eco-responsabile
@@ -428,6 +462,7 @@ Ci impegniamo, così come nella selezione dei nostri partner di hosting, a utili
 
 ---
 
+<a id="14"></a>
 ## 14. Contatto e informazioni pratiche
 
 ### 14.1 Dati di contatto completi

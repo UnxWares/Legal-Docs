@@ -1,70 +1,9 @@
+<div align="center"><img src="https://github.com/UnxWares/.github/blob/main/unxwares-logo.png?raw=true" align="center" height="" width="400" /></div>
+
 # Datenschutzerklärung
 
 **UnxWares**
 **Letzte Aktualisierung: 28. Januar 2026**
-
----
-
-## ⚡ Zusammenfassung der wesentlichen Punkte
-
-**Diese Zusammenfassung gibt Ihnen einen schnellen Überblick. Nur die vollständige Version unten ist rechtlich verbindlich.**
-
-### 🔐 Ihre Daten in Kürze
-
-- **Wir erfassen**: Name, E-Mail, Adresse, Verbindungsprotokolle, Betrugspräventionsinformationen
-- **Ihre Zahlungen**: zu 100% von Stripe verwaltet
-- **Ihre gehosteten Inhalte**: Sie sind Eigentümer, wir sind nur Auftragsverarbeiter
-- **Kein Weiterverkauf**: Wir verkaufen NIEMALS Ihre Daten an Dritte
-- **Kein Werbe-Tracking**: Wir verwenden derzeit keine Marketing-Analysen
-
-### 🎯 Warum wir Ihre Daten erfassen
-
-- Erstellen und Verwalten Ihres Kontos
-- Abrechnung Ihrer Dienste
-- Bereitstellung von technischem Support
-- Verhinderung von Betrug und Missbrauch
-- Erfüllung unserer rechtlichen Verpflichtungen
-
-### 🛡️ Ihre DSGVO-Rechte
-
-Sie können jederzeit:
-
-- ✅ **Auf** Ihre Daten zugreifen
-- ✏️ **Ihre Informationen berichtigen**
-- 🗑️ **Ihr Konto und Ihre Daten löschen**
-- ⏸️ **Bestimmte Verarbeitungen einschränken**
-- 📦 **Ihre Daten abrufen** (Datenübertragbarkeit)
-- 🚫 **Bestimmten Verarbeitungen widersprechen**
-
-👉 **Kontakt:** dpo@unxwares.com
-
-### ⏱️ Wie lange wir Ihre Daten speichern
-
-- **Aktives Konto**: während der gesamten Dauer + 3 Jahre nach Beendigung
-- **Rechnungen**: 10 Jahre (gesetzliche Pflicht)
-- **Verbindungsprotokolle**: 12 Monate
-- **Nach Kontolöschung**: Daten innerhalb von 30 Tagen gelöscht (außer gesetzliche Verpflichtungen)
-
-### 🌍 Übermittlung außerhalb der EU
-
-- **Auf das strikt Notwendige beschränkt** (Stripe für Zahlungen)
-- **Geschützt** durch EU-Standardvertragsklauseln
-- **DSGVO-konform**
-
-### 🍪 Cookies
-
-- **Technische Cookies**: essentiell für den Betrieb (Verbindung, Sicherheit)
-- **Keine Werbe-Cookies** derzeit
-- Sie können sie in Ihrem Browser verwalten
-
-### 📞 Kontakt für Ihre Daten
-
-**Datenschutzbeauftragter (DSB)**
-E-Mail: dpo@unxwares.com
-Antwort innerhalb von maximal 30 Tagen
-
-**Beschwerde bei Aufsichtsbehörde**
-Wenn Sie mit unserer Antwort nicht zufrieden sind: Kontaktieren Sie Ihre nationale Datenschutzbehörde
 
 ---
 
@@ -74,22 +13,23 @@ Wenn Sie mit unserer Antwort nicht zufrieden sind: Kontaktieren Sie Ihre nationa
 
 ## Inhaltsverzeichnis
 
-1. [Identität des Verantwortlichen](#1-identität-des-verantwortlichen)
-2. [Allgemeine Grundsätze](#2-allgemeine-grundsätze)
-3. [Erfasste personenbezogene Daten](#3-erfasste-personenbezogene-daten)
-4. [Zwecke und Rechtsgrundlagen der Verarbeitung](#4-zwecke-und-rechtsgrundlagen-der-verarbeitung)
-5. [Empfänger der Daten](#5-empfänger-der-daten)
-6. [Datenübermittlungen außerhalb der Europäischen Union](#6-datenübermittlungen-außerhalb-der-europäischen-union)
-7. [Speicherdauer der Daten](#7-speicherdauer-der-daten)
-8. [Sicherheit und Vertraulichkeit](#8-sicherheit-und-vertraulichkeit)
-9. [Rechte der betroffenen Personen](#9-rechte-der-betroffenen-personen)
-10. [Cookies und Tracker](#10-cookies-und-tracker)
-11. [Verarbeitung gehosteter Daten (Auftragsverarbeitung)](#11-verarbeitung-gehosteter-daten-auftragsverarbeitung)
-12. [Änderungen der Datenschutzerklärung](#12-änderungen-der-datenschutzerklärung)
-13. [Kontakt und Beschwerden](#13-kontakt-und-beschwerden)
+1. [Identität des Verantwortlichen](#1)
+2. [Allgemeine Grundsätze](#2)
+3. [Erfasste personenbezogene Daten](#3)
+4. [Zwecke und Rechtsgrundlagen der Verarbeitung](#4)
+5. [Empfänger der Daten](#5)
+6. [Datenübermittlungen außerhalb der Europäischen Union](#6)
+7. [Speicherdauer der Daten](#7)
+8. [Sicherheit und Vertraulichkeit](#8)
+9. [Rechte der betroffenen Personen](#9)
+10. [Cookies und Tracker](#10)
+11. [Verarbeitung gehosteter Daten (Auftragsverarbeitung)](#11)
+12. [Änderungen der Datenschutzerklärung](#12)
+13. [Kontakt und Beschwerden](#13)
 
 ---
 
+<a id="1"></a>
 ## 1. Identität des Verantwortlichen
 
 **UnxWares**, als Verantwortlicher für die Verarbeitung personenbezogener Daten, verpflichtet sich zum Schutz der Privatsphäre und der personenbezogenen Daten seiner Nutzer gemäß der **Datenschutz-Grundverordnung (DSGVO)** - EU-Verordnung 2016/679 und dem französischen **Datenschutzgesetz** Nr. 78-17 vom 6. Januar 1978 in geänderter Fassung.
@@ -114,6 +54,7 @@ E-Mail: dpo@unxwares.com
 
 ---
 
+<a id="2"></a>
 ## 2. Allgemeine Grundsätze
 
 UnxWares verpflichtet sich, personenbezogene Daten unter Einhaltung der folgenden Grundprinzipien zu verarbeiten:
@@ -148,6 +89,7 @@ UnxWares ist in der Lage, die Einhaltung der DSGVO-Grundsätze bei seinen Verarb
 
 ---
 
+<a id="3"></a>
 ## 3. Erfasste personenbezogene Daten
 
 ### 3.1. Identifikationsdaten
@@ -264,6 +206,7 @@ UnxWares ist in der Lage, die Einhaltung der DSGVO-Grundsätze bei seinen Verarb
 
 ---
 
+<a id="4"></a>
 ## 4. Zwecke und Rechtsgrundlagen der Verarbeitung
 
 ### 4.1. Erstellung und Verwaltung des Benutzerkontos
@@ -363,6 +306,7 @@ UnxWares ist in der Lage, die Einhaltung der DSGVO-Grundsätze bei seinen Verarb
 
 ---
 
+<a id="5"></a>
 ## 5. Empfänger der Daten
 
 ### 5.1. Interne UnxWares-Dienste
@@ -484,6 +428,7 @@ Im Falle einer Fusion, Übernahme, Geschäftsübertragung oder jeder anderen Kon
 
 ---
 
+<a id="6"></a>
 ## 6. Datenübermittlungen außerhalb der Europäischen Union
 
 ### 6.1. Begrenzungsprinzip
@@ -520,6 +465,7 @@ Nutzer können eine Kopie der für Übermittlungen außerhalb der EU/des EWR ein
 
 ---
 
+<a id="7"></a>
 ## 7. Speicherdauer der Daten
 
 UnxWares speichert personenbezogene Daten nur für den Zeitraum, der für die Zwecke, für die sie verarbeitet werden, unbedingt erforderlich ist.
@@ -602,6 +548,7 @@ In technischen Backups enthaltene Daten werden während des Backup-Rotationszykl
 
 ---
 
+<a id="8"></a>
 ## 8. Sicherheit und Vertraulichkeit
 
 ### 8.1. Sicherheitsverpflichtung
@@ -695,6 +642,7 @@ Nutzer sind auch für die Sicherheit ihrer eigenen Systeme, Anmeldedaten und Zug
 
 ---
 
+<a id="9"></a>
 ## 9. Rechte der betroffenen Personen
 
 Gemäß DSGVO hat jede Person, deren personenbezogene Daten von UnxWares verarbeitet werden, folgende Rechte:
@@ -802,6 +750,7 @@ Die Ausübung Ihrer Rechte ist grundsätzlich **kostenlos**. Bei offensichtlich 
 
 ---
 
+<a id="10"></a>
 ## 10. Cookies und Tracker
 
 ### 10.1. Was ist ein Cookie?
@@ -861,6 +810,7 @@ Sie können Ihren Browser so konfigurieren, dass:
 
 ---
 
+<a id="11"></a>
 ## 11. Verarbeitung gehosteter Daten (Auftragsverarbeitung)
 
 ### 11.1. UnxWares als Auftragsverarbeiter
@@ -910,6 +860,7 @@ Jeder Zugriff wird protokolliert und nachverfolgt.
 
 ---
 
+<a id="12"></a>
 ## 12. Änderungen der Datenschutzerklärung
 
 ### 12.1. Änderungsrecht
@@ -943,6 +894,7 @@ Die Historie früherer Versionen kann auf Anfrage bereitgestellt werden.
 
 ---
 
+<a id="13"></a>
 ## 13. Kontakt und Beschwerden
 
 ### 13.1. Kontakt für Datenschutzfragen

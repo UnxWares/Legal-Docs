@@ -4,6 +4,28 @@
 
 **Letzte Aktualisierung: 10.08.2025**
 
+---
+
+## Inhaltsverzeichnis
+
+1. [Herausgeber der Website](#1)
+2. [Website-Hosting](#2)
+3. [Geistiges Eigentum und Nutzungsbedingungen](#3)
+4. [Personenbezogene Daten](#4)
+5. [Sicherheits- und Verfügbarkeitsrichtlinie](#5)
+6. [Nutzungsbedingungen des Dienstes](#6)
+7. [Geschäftsbedingungen und Abrechnung](#7)
+8. [Beschwerdeverwaltung und Streitigkeiten](#8)
+9. [Gesetzliche Verpflichtungen des Hosters (LCEN)](#9)
+10. [Credits und externe Ressourcen](#10)
+11. [Open-Source-Richtlinie und geistiges Eigentum](#11)
+12. [Digitale Barrierefreiheit](#12)
+13. [Umwelt und soziale Verantwortung](#13)
+14. [Kontakt und praktische Informationen](#14)
+
+---
+
+<a id="1"></a>
 ## 1. Herausgeber der Website
 
 Diese Website wird herausgegeben von **UnxWares**, einer vereinfachten Aktiengesellschaft (SAS) mit einem Grundkapital von 1.000 €, eingetragen im Handels- und Gesellschaftsregister von Paris unter der Nummer 945 207 991, mit Sitz:
@@ -26,6 +48,7 @@ Verkauf von IT-Dienstleistungen, IT-Beratung, Hosting-Lösungen, Entwicklung von
 
 ---
 
+<a id="2"></a>
 ## 2. Website-Hosting
 
 Die Website unxwares.com wird über eine verteilte Architektur gehostet, an der mehrere Anbieter beteiligt sind:
@@ -61,6 +84,7 @@ Industriestr. 25, 91710 Gunzenhausen - Deutschland
 
 ---
 
+<a id="3"></a>
 ## 3. Geistiges Eigentum und Nutzungsbedingungen
 
 ### 3.1 Geistiges Eigentum
@@ -108,6 +132,7 @@ Die Nutzung der von **UnxWares** angebotenen Dienste setzt die vorbehaltlose Ann
 
 ---
 
+<a id="4"></a>
 ## 4. Personenbezogene Daten
 
 **Separate Datenschutzrichtlinie:**
@@ -121,6 +146,7 @@ Detaillierte Informationen zur Erhebung, Nutzung, Speicherung und zum Schutz Ihr
 
 ---
 
+<a id="5"></a>
 ## 5. Sicherheits- und Verfügbarkeitsrichtlinie
 
 ### 5.1 Sicherheitsverpflichtungen
@@ -178,6 +204,7 @@ Detaillierte Informationen zur Erhebung, Nutzung, Speicherung und zum Schutz Ihr
 
 ---
 
+<a id="6"></a>
 ## 6. Nutzungsbedingungen des Dienstes
 
 ### 6.1 Zugang zum Dienst
@@ -210,6 +237,7 @@ Der Benutzer verpflichtet sich:
 
 ---
 
+<a id="7"></a>
 ## 7. Geschäftsbedingungen und Abrechnung
 
 ### 7.1 Preise und Zahlungsbedingungen
@@ -237,6 +265,7 @@ Für Verbraucherdienstleistungen hat der Benutzer eine Frist von 14 Tagen, um se
 
 ---
 
+<a id="8"></a>
 ## 8. Beschwerdeverwaltung und Streitigkeiten
 
 ### 8.1 Kundendienst
@@ -265,6 +294,7 @@ Im Streitfall und in Ermangelung einer gütlichen Einigung oder erfolgreichen Me
 
 ---
 
+<a id="9"></a>
 ## 9. Gesetzliche Verpflichtungen des Hosters (LCEN)
 
 ### 9.1 Hoster-Status
@@ -304,6 +334,7 @@ Jede Meldung muss enthalten:
 
 ---
 
+<a id="10"></a>
 ## 10. Credits und externe Ressourcen
 
 ### 10.1 Design und Produktion
@@ -344,6 +375,7 @@ Jede unbefugte Nutzung, Vervielfältigung oder Weiterverbreitung geschützter El
 
 ---
 
+<a id="11"></a>
 ## 11. Open-Source-Richtlinie und geistiges Eigentum
 
 ### 11.1 Schutz der Rechte
@@ -387,6 +419,7 @@ Externe Beiträge zu unseren Open-Source-Projekten sind gemäß unseren Beitrags
 
 ---
 
+<a id="12"></a>
 ## 12. Digitale Barrierefreiheit
 
 ### 12.1 Barrierefreiheitsverpflichtung
@@ -411,6 +444,7 @@ Bei fehlender Antwort oder unbefriedigender Antwort können Sie:
 
 ---
 
+<a id="13"></a>
 ## 13. Umwelt und soziale Verantwortung
 
 ### 13.1 Umweltverantwortlicher Ansatz
@@ -428,6 +462,7 @@ Wir verpflichten uns sowie bei der Auswahl unserer Hosting-Partner, erneuerbare 
 
 ---
 
+<a id="14"></a>
 ## 14. Kontakt und praktische Informationen
 
 ### 14.1 Vollständige Kontaktdaten

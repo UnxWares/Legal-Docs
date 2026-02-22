@@ -1,70 +1,9 @@
+<div align="center"><img src="https://github.com/UnxWares/.github/blob/main/unxwares-logo.png?raw=true" align="center" height="" width="400" /></div>
+
 # Informativa sulla Privacy
 
 **UnxWares**
 **Ultimo aggiornamento: 28 gennaio 2026**
-
----
-
-## ⚡ Riepilogo dei punti essenziali
-
-**Questa versione sintetica fornisce una panoramica rapida. Solo la versione completa qui sotto ha valore legale.**
-
-### 🔐 I tuoi dati in breve
-
-- **Raccogliamo**: nome, email, indirizzo, registri di connessione, informazioni antifrode
-- **I tuoi pagamenti**: gestiti al 100% da Stripe
-- **I tuoi contenuti ospitati**: ne sei il proprietario, noi siamo solo responsabili del trattamento
-- **Nessuna rivendita**: NON vendiamo MAI i tuoi dati a terzi
-- **Nessun tracciamento pubblicitario**: al momento non utilizziamo analisi di marketing
-
-### 🎯 Perché raccogliamo i tuoi dati
-
-- Creare e gestire il tuo account
-- Fatturare i tuoi servizi
-- Fornire supporto tecnico
-- Prevenire frodi e abusi
-- Rispettare i nostri obblighi legali
-
-### 🛡️ I tuoi diritti GDPR
-
-Puoi in qualsiasi momento:
-
-- ✅ **Accedere** ai tuoi dati
-- ✏️ **Rettificare** le tue informazioni
-- 🗑️ **Eliminare** il tuo account e i tuoi dati
-- ⏸️ **Limitare** determinati trattamenti
-- 📦 **Recuperare** i tuoi dati (portabilità)
-- 🚫 **Opporti** a determinati trattamenti
-
-👉 **Contatto:** dpo@unxwares.com
-
-### ⏱️ Per quanto tempo conserviamo i tuoi dati
-
-- **Account attivo**: per tutta la durata + 3 anni dopo la fine
-- **Fatture**: 10 anni (obbligo legale)
-- **Registri di connessione**: 12 mesi
-- **Dopo l'eliminazione dell'account**: dati cancellati entro 30 giorni (salvo obblighi legali)
-
-### 🌍 Trasferimento fuori dall'UE
-
-- **Limitato allo stretto necessario** (Stripe per i pagamenti)
-- **Protetto** da clausole contrattuali tipo UE
-- **Conforme** al GDPR
-
-### 🍪 Cookie
-
-- **Cookie tecnici**: essenziali per il funzionamento (connessione, sicurezza)
-- **Nessun cookie pubblicitario** al momento
-- Puoi gestirli nel tuo browser
-
-### 📞 Contatto per i tuoi dati
-
-**Responsabile della Protezione dei Dati (RPD)**
-Email: dpo@unxwares.com
-Risposta entro massimo 30 giorni
-
-**Reclamo all'autorità di controllo**
-Se non sei soddisfatto della nostra risposta: contatta la tua autorità nazionale per la protezione dei dati
 
 ---
 
@@ -74,22 +13,23 @@ Se non sei soddisfatto della nostra risposta: contatta la tua autorità nazional
 
 ## Indice
 
-1. [Identità del titolare del trattamento](#1-identità-del-titolare-del-trattamento)
-2. [Principi generali](#2-principi-generali)
-3. [Dati personali raccolti](#3-dati-personali-raccolti)
-4. [Finalità e basi giuridiche dei trattamenti](#4-finalità-e-basi-giuridiche-dei-trattamenti)
-5. [Destinatari dei dati](#5-destinatari-dei-dati)
-6. [Trasferimenti di dati fuori dall'Unione Europea](#6-trasferimenti-di-dati-fuori-dallunione-europea)
-7. [Periodo di conservazione dei dati](#7-periodo-di-conservazione-dei-dati)
-8. [Sicurezza e riservatezza](#8-sicurezza-e-riservatezza)
-9. [Diritti degli interessati](#9-diritti-degli-interessati)
-10. [Cookie e tracker](#10-cookie-e-tracker)
-11. [Trattamento dei dati ospitati (subappalto)](#11-trattamento-dei-dati-ospitati-subappalto)
-12. [Modifiche dell'informativa sulla privacy](#12-modifiche-dellinformativa-sulla-privacy)
-13. [Contatti e reclami](#13-contatti-e-reclami)
+1. [Identità del titolare del trattamento](#1)
+2. [Principi generali](#2)
+3. [Dati personali raccolti](#3)
+4. [Finalità e basi giuridiche dei trattamenti](#4)
+5. [Destinatari dei dati](#5)
+6. [Trasferimenti di dati fuori dall'Unione Europea](#6)
+7. [Periodo di conservazione dei dati](#7)
+8. [Sicurezza e riservatezza](#8)
+9. [Diritti degli interessati](#9)
+10. [Cookie e tracker](#10)
+11. [Trattamento dei dati ospitati (subappalto)](#11)
+12. [Modifiche dell'informativa sulla privacy](#12)
+13. [Contatti e reclami](#13)
 
 ---
 
+<a id="1"></a>
 ## 1. Identità del titolare del trattamento
 
 **UnxWares**, titolare del trattamento dei dati personali, si impegna a proteggere la privacy e i dati personali dei suoi utenti in conformità al **Regolamento Generale sulla Protezione dei Dati (GDPR)** - Regolamento UE 2016/679 e alla **Legge Informatica e Libertà** francese n. 78-17 del 6 gennaio 1978 modificata.
@@ -114,6 +54,7 @@ Email: dpo@unxwares.com
 
 ---
 
+<a id="2"></a>
 ## 2. Principi generali
 
 UnxWares si impegna a trattare i dati personali nel rispetto dei seguenti principi fondamentali:
@@ -148,6 +89,7 @@ UnxWares è in grado di dimostrare la conformità dei suoi trattamenti ai princi
 
 ---
 
+<a id="3"></a>
 ## 3. Dati personali raccolti
 
 ### 3.1. Dati di identificazione
@@ -264,6 +206,7 @@ UnxWares è in grado di dimostrare la conformità dei suoi trattamenti ai princi
 
 ---
 
+<a id="4"></a>
 ## 4. Finalità e basi giuridiche dei trattamenti
 
 ### 4.1. Creazione e gestione dell'account utente
@@ -363,6 +306,7 @@ UnxWares è in grado di dimostrare la conformità dei suoi trattamenti ai princi
 
 ---
 
+<a id="5"></a>
 ## 5. Destinatari dei dati
 
 ### 5.1. Servizi interni di UnxWares
@@ -484,6 +428,7 @@ In caso di fusione, acquisizione, cessione di attività o qualsiasi altro cambio
 
 ---
 
+<a id="6"></a>
 ## 6. Trasferimenti di dati fuori dall'Unione Europea
 
 ### 6.1. Principio di limitazione
@@ -520,6 +465,7 @@ Gli utenti possono ottenere una copia delle garanzie messe in atto per i trasfer
 
 ---
 
+<a id="7"></a>
 ## 7. Periodo di conservazione dei dati
 
 UnxWares conserva i dati personali solo per il periodo strettamente necessario alle finalità per le quali sono trattati.
@@ -602,6 +548,7 @@ I dati contenuti nei backup tecnici sono cancellati durante il ciclo di rotazion
 
 ---
 
+<a id="8"></a>
 ## 8. Sicurezza e riservatezza
 
 ### 8.1. Impegno di sicurezza
@@ -695,6 +642,7 @@ Gli utenti sono anche responsabili della sicurezza dei propri sistemi, credenzia
 
 ---
 
+<a id="9"></a>
 ## 9. Diritti degli interessati
 
 In conformità al GDPR, ogni persona i cui dati personali sono trattati da UnxWares dispone dei seguenti diritti:
@@ -802,6 +750,7 @@ L'esercizio dei suoi diritti è **gratuito** in linea di principio. Tuttavia, in
 
 ---
 
+<a id="10"></a>
 ## 10. Cookie e tracker
 
 ### 10.1. Cos'è un cookie?
@@ -861,6 +810,7 @@ Può configurare il suo browser per:
 
 ---
 
+<a id="11"></a>
 ## 11. Trattamento dei dati ospitati (subappalto)
 
 ### 11.1. UnxWares in qualità di responsabile del trattamento
@@ -910,6 +860,7 @@ Ogni accesso è registrato e tracciato.
 
 ---
 
+<a id="12"></a>
 ## 12. Modifiche dell'informativa sulla privacy
 
 ### 12.1. Diritto di modifica
@@ -943,6 +894,7 @@ Lo storico delle versioni precedenti può essere fornito su richiesta.
 
 ---
 
+<a id="13"></a>
 ## 13. Contatti e reclami
 
 ### 13.1. Contatto per domande relative alla protezione dei dati

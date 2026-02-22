@@ -1,70 +1,9 @@
+<div align="center"><img src="https://github.com/UnxWares/.github/blob/main/unxwares-logo.png?raw=true" align="center" height="" width="400" /></div>
+
 # Algemene Gebruiksvoorwaarden (AVG)
 
 **UnxWares**
 **Laatste update: 28 januari 2026**
-
----
-
-## ⚡ Samenvatting van de belangrijkste punten
-
-**Deze samenvattende versie geeft u een snel overzicht. Alleen de volledige versie hieronder is juridisch bindend.**
-
-### 🎯 Wat u kunt doen
-
-- Onze cloud hosting en managed Kubernetes diensten gebruiken voor uw legitieme projecten
-- Uw applicaties, websites, databases en legale inhoud hosten
-- Profiteren van automatische back-ups volgens uw abonnement
-- Toegang krijgen tot technische ondersteuning binnen de grenzen van uw formule
-
-### ⛔ Wat strikt verboden is
-
-- **Illegale inhoud**: namaak, phishing, illegale inhoud, schending van rechten
-- **Aanvallen en malware**: DDoS, inbraken, virussen, alle kwaadaardige code
-- **Misbruik van resources**: ongeautoriseerde mining, massale spam, omzeiling van beperkingen
-- **Monopolisering van resources**: wijziging van systemen om alle prestaties van een gedeelde server toe te wijzen (equivalent aan een dedicated aanbieding)
-- **Ongeautoriseerde wederverkoop** van diensten zonder schriftelijke overeenkomst
-
-### 🔒 Uw persoonlijke gegevens
-
-- We verzamelen: naam, e-mail, verbindingsgegevens, anti-fraudeinformatie
-- Beveiligde betalingen via Stripe (we slaan uw creditcards niet op)
-- U heeft alle AVG-rechten (toegang, rectificatie, verwijdering, enz.)
-- DPO contact: dpo@unxwares.com
-
-### 💾 Back-ups - BELANGRIJK
-
-- We bieden automatische back-ups volgens uw abonnement
-- **Deze back-ups zijn GEEN absolute garantie voor herstel**
-- **U bent verantwoordelijk voor uw eigen externe back-ups**
-- Bij gegevensverlies: beperkte aansprakelijkheid behalve bij grove nalatigheid
-
-### 🔐 Accountbeveiliging
-
-- U bent verantwoordelijk voor uw inloggegevens (wachtwoorden, API-sleutels)
-- Kies een sterk en uniek wachtwoord
-- Elke actie vanaf uw account wordt aan u toegeschreven
-- Informeer ons onmiddellijk bij verdachte gebruiken
-
-### ⚖️ Aansprakelijkheid
-
-- **U bent verantwoordelijk** voor uw inhoud en de wettigheid ervan
-- Onze aansprakelijkheid is beperkt tot directe schade en gemaximeerd (12 maanden betalingen, max €10.000)
-- Geen aansprakelijkheid voor indirecte schade (omzetverlies, gegevens als u geen externe back-ups heeft)
-
-### ⏸️ Mogelijke opschorting
-
-We kunnen uw diensten onmiddellijk opschorten in geval van:
-
-- Wanbetaling (zie Verkoopvoorwaarden)
-- Ernstige schending van AVG (illegale inhoud, aanvallen, misbruik)
-- Bedreiging van de beveiliging van onze infrastructuur of andere klanten
-- Bevel van een gerechtelijke autoriteit
-
-### 📞 Contact en geschillen
-
-- Ondersteuning: help@unxwares.com
-- We geven altijd de voorkeur aan minnelijke oplossingen
-- Frans recht van toepassing, Franse rechtbanken bevoegd
 
 ---
 
@@ -74,25 +13,26 @@ We kunnen uw diensten onmiddellijk opschorten in geval van:
 
 ## Inhoudsopgave
 
-1. [Definities](#1-definities)
-2. [Doel en toepassingsgebied](#2-doel-en-toepassingsgebied)
-3. [Beschrijving van diensten](#3-beschrijving-van-diensten)
-4. [Toegang tot diensten](#4-toegang-tot-diensten)
-5. [Gebruikersaccount](#5-gebruikersaccount)
-6. [Verplichtingen van de gebruiker](#6-verplichtingen-van-de-gebruiker)
-7. [Verplichtingen van UnxWares](#7-verplichtingen-van-unxwares)
-8. [Intellectueel eigendom](#8-intellectueel-eigendom)
-9. [Bescherming van persoonsgegevens](#9-bescherming-van-persoonsgegevens)
-10. [Beveiliging en back-ups](#10-beveiliging-en-back-ups)
-11. [Aansprakelijkheid en garanties](#11-aansprakelijkheid-en-garanties)
-12. [Overmacht](#12-overmacht)
-13. [Opschorting door UnxWares](#13-opschorting-door-unxwares)
-14. [Wijziging van AVG](#14-wijziging-van-avg)
-15. [Algemene bepalingen](#15-algemene-bepalingen)
-16. [Contact](#16-contact)
+1. [Definities](#1)
+2. [Doel en toepassingsgebied](#2)
+3. [Beschrijving van diensten](#3)
+4. [Toegang tot diensten](#4)
+5. [Gebruikersaccount](#5)
+6. [Verplichtingen van de gebruiker](#6)
+7. [Verplichtingen van UnxWares](#7)
+8. [Intellectueel eigendom](#8)
+9. [Bescherming van persoonsgegevens](#9)
+10. [Beveiliging en back-ups](#10)
+11. [Aansprakelijkheid en garanties](#11)
+12. [Overmacht](#12)
+13. [Opschorting door UnxWares](#13)
+14. [Wijziging van AVG](#14)
+15. [Algemene bepalingen](#15)
+16. [Contact](#16)
 
 ---
 
+<a id="1"></a>
 ## 1. Definities
 
 In deze Algemene Gebruiksvoorwaarden hebben de volgende termen de volgende betekenis:
@@ -113,6 +53,7 @@ In deze Algemene Gebruiksvoorwaarden hebben de volgende termen de volgende betek
 
 ---
 
+<a id="2"></a>
 ## 2. Doel en toepassingsgebied
 
 ### 2.1. Doel
@@ -133,6 +74,7 @@ De Gebruiker die de nieuwe voorwaarden niet accepteert, heeft een termijn van 30
 
 ---
 
+<a id="3"></a>
 ## 3. Beschrijving van diensten
 
 ### 3.1. Aard van de diensten
@@ -155,6 +97,7 @@ UnxWares behoudt zich het recht voor om zijn Diensten te ontwikkelen, nieuwe toe
 
 ---
 
+<a id="4"></a>
 ## 4. Toegang tot diensten
 
 ### 4.1. Technische vereisten
@@ -183,6 +126,7 @@ UnxWares behoudt zich het recht voor om de toegang tot de Diensten te beperken, 
 
 ---
 
+<a id="5"></a>
 ## 5. Gebruikersaccount
 
 ### 5.1. Aanmaken van account
@@ -215,6 +159,7 @@ De Gebruiker kan zijn Account op elk moment verwijderen. Verwijdering leidt tot 
 
 ---
 
+<a id="6"></a>
 ## 6. Verplichtingen van de gebruiker
 
 ### 6.1. Conform en eerlijk gebruik
@@ -298,6 +243,7 @@ De Gebruiker verbindt zich ertoe onmiddellijk aan UnxWares te melden elk fraudul
 
 ---
 
+<a id="7"></a>
 ## 7. Verplichtingen van UnxWares
 
 ### 7.1. Levering van diensten
@@ -363,6 +309,7 @@ UnxWares verbindt zich ertoe geen toegang te krijgen tot de Inhoud van de Gebrui
 
 ---
 
+<a id="8"></a>
 ## 8. Intellectueel eigendom
 
 ### 8.1. Eigendom van UnxWares
@@ -412,6 +359,7 @@ In geval van kennisgeving van illegale of namaak inhoud behoudt UnxWares zich he
 
 ---
 
+<a id="9"></a>
 ## 9. Bescherming van persoonsgegevens
 
 ### 9.1. Verzamelde gegevens
@@ -521,6 +469,7 @@ Een verwerkersovereenkomst (DPA) kan op verzoek worden opgezet om de respectieve
 
 ---
 
+<a id="10"></a>
 ## 10. Beveiliging en back-ups
 
 ### 10.1. Infrastructuurbeveiliging
@@ -580,6 +529,7 @@ De Gebruiker verbindt zich ertoe samen te werken en alle nuttige informatie te v
 
 ---
 
+<a id="11"></a>
 ## 11. Aansprakelijkheid en garanties
 
 ### 11.1. Garantiebeperking
@@ -649,6 +599,7 @@ UnxWares behoudt zich het recht voor om volledig samen te werken met de bevoegde
 
 ---
 
+<a id="12"></a>
 ## 12. Overmacht
 
 ### 12.1. Definitie
@@ -683,6 +634,7 @@ Indien de overmacht langer duurt dan **30 kalenderdagen**, kan elke partij het c
 
 ---
 
+<a id="13"></a>
 ## 13. Opschorting door UnxWares
 
 ### 13.1. Gronden voor opschorting
@@ -745,6 +697,7 @@ UnxWares behoudt zich het recht voor om heractivering te weigeren in geval van:
 
 ---
 
+<a id="14"></a>
 ## 14. Wijziging van AVG
 
 ### 14.1. Recht tot wijziging
@@ -781,6 +734,7 @@ De geschiedenis van eerdere versies kan op verzoek worden verstrekt.
 
 ---
 
+<a id="15"></a>
 ## 15. Algemene bepalingen
 
 ### 15.1. Volledigheid van de overeenkomst
@@ -866,6 +820,7 @@ Bij gebrek aan een minnelijke oplossing binnen 30 dagen wordt het geschil voorge
 
 ---
 
+<a id="16"></a>
 ## 16. Contact
 
 Voor vragen met betrekking tot deze AVG of de Diensten kan de Gebruiker contact opnemen met UnxWares:

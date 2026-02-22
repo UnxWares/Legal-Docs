@@ -9,102 +9,31 @@
 
 ---
 
-## ⚡ Zusammenfassung der wesentlichen Punkte
-
-**Diese Kurzfassung gibt Ihnen einen schnellen Überblick. Nur die vollständige Version unten ist rechtlich bindend.**
-
-### 💳 Abrechnung und Zahlung
-
-- **Abrechnung zu Beginn jeder Periode** (wöchentlich/monatlich/jährlich)
-- **Zahlungsfrist 15 Tage** über Stripe
-- **Automatische Aussetzung am 15. Tag** bei Nichtzahlung
-- Preise **netto** für Unternehmen, **brutto** für Privatpersonen
-
-### 🎁 Testphase
-
-- **Wöchentliche Abrechnung: 2 kostenlose Tage**
-- **Monatliche Abrechnung: 7 kostenlose Tage**
-- **Jährliche Abrechnung: 21 kostenlose Tage**
-- **Nur eine Testphase** pro Dienst und pro Kunde
-- **Kostenlose Kündigung** jederzeit während der Testphase
-- **Bei festgestelltem Missbrauch sofortige Abrechnung** (mehrere Konten, gleicher Inhalt nach Kündigung)
-
-### 📅 Verpflichtung und Verlängerung
-
-- **Wöchentliche Abrechnung = Mindestbindung 1 Monat** (4 Wochen)
-- **Automatische Verlängerung** außer Kündigung Ihrerseits im Voraus
-- **Begonnene Periode = vollständig fällig** (keine anteilige Rückerstattung)
-- Benachrichtigung vor jeder Verlängerung und Rechnungsstellung
-
-### ❌ Kündigung durch Sie
-
-- **Jederzeit ohne Kündigungsfrist und Vertragsstrafe möglich**
-- **Wird am Ende der laufenden Periode wirksam**
-- Muss **VOR** Ausstellung der nächsten Rechnung erfolgen
-- **7 Tage Frist** nach Kündigung zur Datenwiederherstellung
-- **Endgültige Löschung nach 7 Tagen** - denken Sie an Backup!
-
-### 🚫 Kündigung durch UnxWares
-
-Möglich bei:
-
-- Anhaltender Nichtzahlung nach Aussetzung
-- Schwerer Verstoß gegen AGB/Nutzungsbedingungen
-- Illegalen oder gefährlichen Aktivitäten
-- In allen Fällen: fällige Beträge bleiben zahlbar, keine Rückerstattung
-
-### 🔄 Widerrufsrecht
-
-- **Privatkunden**: durch kostenlose Testphase ersetzt (vorteilhafter)
-- **Geschäftskunden**: kein Widerrufsrecht (B2B)
-
-### ⚠️ Unbedingt zu beachten
-
-- **15 Tage zur Zahlung sonst sofortige Aussetzung**
-- **Jede begonnene Periode ist vollständig fällig**
-- **Holen Sie Ihre Daten innerhalb von 7 Tagen nach Kündigung**
-- **Wöchentliche Abrechung = 1 Monat Mindestbindung**
-- **Testphasen-Missbrauch = sofortige Abrechnung + geschlossenes Konto**
-
-### 🛡️ Garantien
-
-- Dienste entsprechend den angegebenen Eigenschaften
-- Gesetzliche Garantien für Verbraucher (Verbraucherrechte)
-- SLA je nach Ihrem Tarif (Verfügbarkeit, Entschädigung)
-
-### 🤝 Streitigkeiten
-
-- **Kontaktieren Sie immer zuerst unseren Support**
-- Kostenlose Mediation für Verbraucher
-- Gütliche Einigung vor Gerichtsverfahren
-- Kontakt: help@unxwares.com
-
----
-
 ## 📄 Vollständige AGB-Version
 
 ---
 
 ## Inhaltsverzeichnis
 
-1. [Definitionen](#1-definitionen)
-2. [Gegenstand und Anwendungsbereich](#2-gegenstand-und-anwendungsbereich)
-3. [Angebotene Produkte und Dienstleistungen](#3-angebotene-produkte-und-dienstleistungen)
-4. [Bestellung und Abonnement](#4-bestellung-und-abonnement)
-5. [Preise](#5-preise)
-6. [Zahlungsmodalitäten](#6-zahlungsmodalitäten)
-7. [Testphase und Widerrufsrecht](#7-testphase-und-widerrufsrecht)
-8. [Laufzeit, Verlängerung und Kündigung](#8-laufzeit-verlängerung-und-kündigung)
-9. [Lieferung und Zugang zu Diensten](#9-lieferung-und-zugang-zu-diensten)
-10. [Kündigung durch UnxWares](#10-kündigung-durch-unxwares)
-11. [Handelsgarantien](#11-handelsgarantien)
-12. [Reklamationen und Streitigkeiten](#12-reklamationen-und-streitigkeiten)
-13. [Änderung der AGB](#13-änderung-der-agb)
-14. [Allgemeine Bestimmungen](#14-allgemeine-bestimmungen)
-15. [Kontakt](#15-kontakt)
+1. [Definitionen](#1)
+2. [Gegenstand und Anwendungsbereich](#2)
+3. [Angebotene Produkte und Dienstleistungen](#3)
+4. [Bestellung und Abonnement](#4)
+5. [Preise](#5)
+6. [Zahlungsmodalitäten](#6)
+7. [Testphase und Widerrufsrecht](#7)
+8. [Laufzeit, Verlängerung und Kündigung](#8)
+9. [Lieferung und Zugang zu Diensten](#9)
+10. [Kündigung durch UnxWares](#10)
+11. [Handelsgarantien](#11)
+12. [Reklamationen und Streitigkeiten](#12)
+13. [Änderung der AGB](#13)
+14. [Allgemeine Bestimmungen](#14)
+15. [Kontakt](#15)
 
 ---
 
+<a id="1"></a>
 ## 1. Definitionen
 
 In diesen Allgemeinen Geschäftsbedingungen haben folgende Begriffe folgende Bedeutung:
@@ -128,6 +57,7 @@ In diesen Allgemeinen Geschäftsbedingungen haben folgende Begriffe folgende Bed
 
 ---
 
+<a id="2"></a>
 ## 2. Gegenstand und Anwendungsbereich
 
 ### 2.1. Gegenstand
@@ -160,6 +90,7 @@ Der Vertrag zwischen UnxWares und dem Kunden besteht aus:
 
 ---
 
+<a id="3"></a>
 ## 3. Angebotene Produkte und Dienstleistungen
 
 ### 3.1. Allgemeine Beschreibung
@@ -198,6 +129,7 @@ UnxWares behält sich das Recht vor, seine kommerziellen Angebote weiterzuentwic
 
 ---
 
+<a id="4"></a>
 ## 4. Bestellung und Abonnement
 
 ### 4.1. Bestellvorgang
@@ -266,6 +198,7 @@ Für Geschäftskunden enthalten Rechnungen die gemäß den geltenden Vorschrifte
 
 ---
 
+<a id="5"></a>
 ## 5. Preise
 
 ### 5.1. Preisgestaltung
@@ -325,6 +258,7 @@ UnxWares kann zeitlich begrenzte Aktionspreise anbieten. Diese Aktionen:
 
 ---
 
+<a id="6"></a>
 ## 6. Zahlungsmodalitäten
 
 ### 6.1. Akzeptierte Zahlungsmittel
@@ -485,6 +419,7 @@ Die Anfechtung einer Rechnung entbindet den Kunden nicht von seiner Zahlungsverp
 
 ---
 
+<a id="7"></a>
 ## 7. Testphase und Widerrufsrecht
 
 ### 7.1. Kostenlose Testphase
@@ -567,6 +502,7 @@ Das Widerrufsrecht gilt nicht gemäß § 312a BGB.
 
 ---
 
+<a id="8"></a>
 ## 8. Laufzeit, Verlängerung und Kündigung
 
 ### 8.1. Vertragslaufzeit
@@ -660,6 +596,7 @@ Die Kündigung wird am Ende des laufenden Abrechnungszeitraums unter den alten B
 
 ---
 
+<a id="9"></a>
 ## 9. Lieferung und Zugang zu Diensten
 
 ### 9.1. Bereitstellung der Dienstleistungen
@@ -702,6 +639,7 @@ Der Vertrag wird dann von Rechts wegen gekündigt und jede bereits geleistete Za
 
 ---
 
+<a id="10"></a>
 ## 10. Kündigung durch UnxWares
 
 ### 10.1. Kündigung wegen Nichtzahlung
@@ -756,6 +694,7 @@ Nach Kündigung wegen Verstoßes behält sich UnxWares das Recht vor, **jedes ne
 
 ---
 
+<a id="11"></a>
 ## 11. Handelsgarantien
 
 ### 11.1. Konformitätsgarantie
@@ -806,6 +745,7 @@ Die oben genannten Garantien gelten nicht in folgenden Fällen:
 
 ---
 
+<a id="12"></a>
 ## 12. Reklamationen und Streitigkeiten
 
 ### 12.1. Kundendienst und Reklamationen
@@ -880,6 +820,7 @@ Es gelten die gesetzlichen Regeln der örtlichen Zuständigkeit gemäß Verbrauc
 
 ---
 
+<a id="13"></a>
 ## 13. Änderung der AGB
 
 ### 13.1. Änderungsrecht
@@ -925,6 +866,7 @@ Der Verlauf früherer Versionen kann auf schriftliche Anfrage zur Rechtfertigung
 
 ---
 
+<a id="14"></a>
 ## 14. Allgemeine Bestimmungen
 
 ### 14.1. Gesamtheit der Vereinbarung
@@ -1027,6 +969,7 @@ Die Bestimmungen dieser AGB, die ihrer Natur nach dazu bestimmt sind, das Auslau
 
 ---
 
+<a id="15"></a>
 ## 15. Kontakt
 
 Für jede Frage zu diesen AGB, zu kommerziellen Aspekten, zur Abrechnung oder zu Bestellungen kann der Kunde UnxWares kontaktieren:

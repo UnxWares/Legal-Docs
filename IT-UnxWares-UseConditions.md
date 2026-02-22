@@ -1,70 +1,9 @@
+<div align="center"><img src="https://github.com/UnxWares/.github/blob/main/unxwares-logo.png?raw=true" align="center" height="" width="400" /></div>
+
 # Condizioni Generali d'Uso (CGU)
 
 **UnxWares**
 **Ultimo aggiornamento: 28 gennaio 2026**
-
----
-
-## ⚡ Riepilogo dei punti essenziali
-
-**Questa versione riassuntiva fornisce una panoramica rapida. Solo la versione completa di seguito ha valore legale.**
-
-### 🎯 Cosa puoi fare
-
-- Utilizzare i nostri servizi di hosting cloud e Kubernetes gestito per i tuoi progetti legittimi
-- Ospitare le tue applicazioni, siti web, database e contenuti legali
-- Beneficiare di backup automatici secondo il tuo piano
-- Accedere al supporto tecnico nei limiti della tua formula
-
-### ⛔ Cosa è strettamente vietato
-
-- **Contenuti illegali**: contraffazione, phishing, contenuti illeciti, violazione di diritti
-- **Attacchi e malware**: DDoS, intrusioni, virus, qualsiasi codice malevolo
-- **Abuso di risorse**: mining non autorizzato, spam di massa, elusione delle limitazioni
-- **Monopolizzazione delle risorse**: modifica dei sistemi per allocare tutte le prestazioni di un server condiviso (equivalente a un'offerta dedicata)
-- **Rivendita non autorizzata** di servizi senza accordo scritto
-
-### 🔒 I tuoi dati personali
-
-- Raccogliamo: nome, email, dati di connessione, informazioni antifrode
-- Pagamenti sicuri tramite Stripe (non memorizziamo le tue carte di credito)
-- Hai tutti i diritti GDPR (accesso, rettifica, cancellazione, ecc.)
-- Contatto DPO: dpo@unxwares.com
-
-### 💾 Backup - IMPORTANTE
-
-- Offriamo backup automatici secondo il tuo piano
-- **Questi backup NON sono una garanzia assoluta di recupero**
-- **TU sei responsabile dei tuoi backup esterni**
-- In caso di perdita di dati: responsabilità limitata salvo colpa grave
-
-### 🔐 Sicurezza del tuo account
-
-- Sei responsabile delle tue credenziali (password, chiavi API)
-- Scegli una password robusta e unica
-- Qualsiasi azione dal tuo account ti è attribuita
-- Informaci immediatamente in caso di uso sospetto
-
-### ⚖️ Responsabilità
-
-- **Sei responsabile** dei tuoi contenuti e della loro legalità
-- La nostra responsabilità è limitata ai danni diretti e massimale (12 mesi di pagamenti, max 10.000€)
-- Nessuna responsabilità per danni indiretti (perdita di fatturato, dati se non hai backup esterni)
-
-### ⏸️ Sospensione possibile
-
-Possiamo sospendere immediatamente i tuoi servizi in caso di:
-
-- Mancato pagamento (vedi CGV)
-- Violazione grave delle CGU (contenuti illeciti, attacchi, abuso)
-- Minaccia alla sicurezza della nostra infrastruttura o altri clienti
-- Ordine di un'autorità giudiziaria
-
-### 📞 Contatto e controversie
-
-- Supporto: help@unxwares.com
-- Privilegiamo sempre le soluzioni amichevoli
-- Diritto francese applicabile, tribunali francesi competenti
 
 ---
 
@@ -74,25 +13,26 @@ Possiamo sospendere immediatamente i tuoi servizi in caso di:
 
 ## Indice
 
-1. [Definizioni](#1-definizioni)
-2. [Oggetto e campo di applicazione](#2-oggetto-e-campo-di-applicazione)
-3. [Descrizione dei servizi](#3-descrizione-dei-servizi)
-4. [Accesso ai servizi](#4-accesso-ai-servizi)
-5. [Account utente](#5-account-utente)
-6. [Obblighi dell'utente](#6-obblighi-dellutente)
-7. [Obblighi di UnxWares](#7-obblighi-di-unxwares)
-8. [Proprietà intellettuale](#8-proprietà-intellettuale)
-9. [Protezione dei dati personali](#9-protezione-dei-dati-personali)
-10. [Sicurezza e backup](#10-sicurezza-e-backup)
-11. [Responsabilità e garanzie](#11-responsabilità-e-garanzie)
-12. [Forza maggiore](#12-forza-maggiore)
-13. [Sospensione da parte di UnxWares](#13-sospensione-da-parte-di-unxwares)
-14. [Modifica delle CGU](#14-modifica-delle-cgu)
-15. [Disposizioni generali](#15-disposizioni-generali)
-16. [Contatto](#16-contatto)
+1. [Definizioni](#1)
+2. [Oggetto e campo di applicazione](#2)
+3. [Descrizione dei servizi](#3)
+4. [Accesso ai servizi](#4)
+5. [Account utente](#5)
+6. [Obblighi dell'utente](#6)
+7. [Obblighi di UnxWares](#7)
+8. [Proprietà intellettuale](#8)
+9. [Protezione dei dati personali](#9)
+10. [Sicurezza e backup](#10)
+11. [Responsabilità e garanzie](#11)
+12. [Forza maggiore](#12)
+13. [Sospensione da parte di UnxWares](#13)
+14. [Modifica delle CGU](#14)
+15. [Disposizioni generali](#15)
+16. [Contatto](#16)
 
 ---
 
+<a id="1"></a>
 ## 1. Definizioni
 
 Nelle presenti Condizioni Generali d'Uso, i seguenti termini hanno il seguente significato:
@@ -113,6 +53,7 @@ Nelle presenti Condizioni Generali d'Uso, i seguenti termini hanno il seguente s
 
 ---
 
+<a id="2"></a>
 ## 2. Oggetto e campo di applicazione
 
 ### 2.1. Oggetto
@@ -133,6 +74,7 @@ L'Utente che non accetta le nuove condizioni dispone di un termine di 30 giorni 
 
 ---
 
+<a id="3"></a>
 ## 3. Descrizione dei servizi
 
 ### 3.1. Natura dei servizi
@@ -155,6 +97,7 @@ UnxWares si riserva il diritto di far evolvere i propri Servizi, aggiungerne di 
 
 ---
 
+<a id="4"></a>
 ## 4. Accesso ai servizi
 
 ### 4.1. Requisiti tecnici
@@ -183,6 +126,7 @@ UnxWares si riserva il diritto di limitare, sospendere o interrompere temporanea
 
 ---
 
+<a id="5"></a>
 ## 5. Account utente
 
 ### 5.1. Creazione dell'account
@@ -215,6 +159,7 @@ L'Utente può eliminare il proprio Account in qualsiasi momento. L'eliminazione 
 
 ---
 
+<a id="6"></a>
 ## 6. Obblighi dell'utente
 
 ### 6.1. Utilizzo conforme e leale
@@ -298,6 +243,7 @@ L'Utente si impegna a segnalare immediatamente a UnxWares qualsiasi utilizzo fra
 
 ---
 
+<a id="7"></a>
 ## 7. Obblighi di UnxWares
 
 ### 7.1. Fornitura dei servizi
@@ -363,6 +309,7 @@ UnxWares si impegna a non accedere ai Contenuti dell'Utente, salvo:
 
 ---
 
+<a id="8"></a>
 ## 8. Proprietà intellettuale
 
 ### 8.1. Proprietà di UnxWares
@@ -412,6 +359,7 @@ In caso di notifica di un contenuto illecito o contraffatto, UnxWares si riserva
 
 ---
 
+<a id="9"></a>
 ## 9. Protezione dei dati personali
 
 ### 9.1. Dati raccolti
@@ -521,6 +469,7 @@ Un accordo di responsabile del trattamento (DPA - Data Processing Agreement) pu�
 
 ---
 
+<a id="10"></a>
 ## 10. Sicurezza e backup
 
 ### 10.1. Sicurezza dell'infrastruttura
@@ -580,6 +529,7 @@ L'Utente si impegna a cooperare e fornire qualsiasi informazione utile per la ri
 
 ---
 
+<a id="11"></a>
 ## 11. Responsabilità e garanzie
 
 ### 11.1. Limitazione di garanzia
@@ -649,6 +599,7 @@ UnxWares si riserva il diritto di cooperare pienamente con le autorità competen
 
 ---
 
+<a id="12"></a>
 ## 12. Forza maggiore
 
 ### 12.1. Definizione
@@ -683,6 +634,7 @@ Se la forza maggiore persiste oltre **30 giorni di calendario**, ciascuna parte 
 
 ---
 
+<a id="13"></a>
 ## 13. Sospensione da parte di UnxWares
 
 ### 13.1. Motivi di sospensione
@@ -745,6 +697,7 @@ UnxWares si riserva il diritto di rifiutare la riattivazione in caso di:
 
 ---
 
+<a id="14"></a>
 ## 14. Modifica delle CGU
 
 ### 14.1. Diritto di modifica
@@ -781,6 +734,7 @@ Lo storico delle versioni precedenti può essere fornito su richiesta.
 
 ---
 
+<a id="15"></a>
 ## 15. Disposizioni generali
 
 ### 15.1. Integralità dell'accordo
@@ -866,6 +820,7 @@ In mancanza di risoluzione amichevole entro 30 giorni, la controversia sarà sot
 
 ---
 
+<a id="16"></a>
 ## 16. Contatto
 
 Per qualsiasi domanda relativa alle presenti CGU o ai Servizi, l'Utente può contattare UnxWares:

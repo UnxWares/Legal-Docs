@@ -1,70 +1,9 @@
+<div align="center"><img src="https://github.com/UnxWares/.github/blob/main/unxwares-logo.png?raw=true" align="center" height="" width="400" /></div>
+
 # Terms of Use (ToU)
 
 **UnxWares**
 **Last updated: January 28, 2026**
-
----
-
-## ⚡ Summary of key points
-
-**This summary version gives you a quick overview. Only the full version below is legally binding.**
-
-### 🎯 What you can do
-
-- Use our cloud hosting and managed Kubernetes services for your legitimate projects
-- Host your applications, websites, databases and legal content
-- Benefit from automatic backups according to your plan
-- Access technical support within the limits of your subscription
-
-### ⛔ What is strictly prohibited
-
-- **Illegal content**: counterfeiting, phishing, illicit content, rights violations
-- **Attacks and malware**: DDoS, intrusions, viruses, any malicious code
-- **Resource abuse**: unauthorized mining, mass spam, circumventing limitations
-- **Resource monopolization**: modifying systems to allocate all performance of a shared server (equivalent to a dedicated offer)
-- **Unauthorized resale** of services without written agreement
-
-### 🔒 Your personal data
-
-- We collect: name, email, connection data, anti-fraud information
-- Secure payments via Stripe (we do not store your credit cards)
-- You have all GDPR rights (access, rectification, deletion, etc.)
-- DPO contact: dpo@unxwares.com
-
-### 💾 Backups - IMPORTANT
-
-- We offer automatic backups according to your plan
-- **These backups are NOT an absolute guarantee of recovery**
-- **YOU are responsible for your own external backups**
-- In case of data loss: limited liability except for gross negligence
-
-### 🔐 Account security
-
-- You are responsible for your credentials (passwords, API keys)
-- Choose a strong and unique password
-- Any action from your account is attributed to you
-- Inform us immediately in case of suspicious use
-
-### ⚖️ Liability
-
-- **You are responsible** for your content and its legality
-- Our liability is limited to direct damages and capped (12 months of payments, max €10,000)
-- No liability for indirect damages (loss of revenue, data if you don't have external backups)
-
-### ⏸️ Possible suspension
-
-We may immediately suspend your services in case of:
-
-- Non-payment (see Terms of Sale)
-- Serious violation of ToU (illicit content, attacks, abuse)
-- Threat to the security of our infrastructure or other customers
-- Order from a judicial authority
-
-### 📞 Contact and disputes
-
-- Support: help@unxwares.com
-- We always favor amicable solutions
-- French law applicable, French courts have jurisdiction
 
 ---
 
@@ -74,25 +13,26 @@ We may immediately suspend your services in case of:
 
 ## Table of contents
 
-1. [Definitions](#1-definitions)
-2. [Purpose and scope](#2-purpose-and-scope)
-3. [Description of services](#3-description-of-services)
-4. [Access to services](#4-access-to-services)
-5. [User account](#5-user-account)
-6. [User obligations](#6-user-obligations)
-7. [UnxWares obligations](#7-unxwares-obligations)
-8. [Intellectual property](#8-intellectual-property)
-9. [Protection of personal data](#9-protection-of-personal-data)
-10. [Security and backups](#10-security-and-backups)
-11. [Liability and warranties](#11-liability-and-warranties)
-12. [Force majeure](#12-force-majeure)
-13. [Suspension by UnxWares](#13-suspension-by-unxwares)
-14. [Modification of ToU](#14-modification-of-tou)
-15. [General provisions](#15-general-provisions)
-16. [Contact](#16-contact)
+1. [Definitions](#1)
+2. [Purpose and scope](#2)
+3. [Description of services](#3)
+4. [Access to services](#4)
+5. [User account](#5)
+6. [User obligations](#6)
+7. [UnxWares obligations](#7)
+8. [Intellectual property](#8)
+9. [Protection of personal data](#9)
+10. [Security and backups](#10)
+11. [Liability and warranties](#11)
+12. [Force majeure](#12)
+13. [Suspension by UnxWares](#13)
+14. [Modification of ToU](#14)
+15. [General provisions](#15)
+16. [Contact](#16)
 
 ---
 
+<a id="1"></a>
 ## 1. Definitions
 
 In these Terms of Use, the following terms have the following meaning:
@@ -113,6 +53,7 @@ In these Terms of Use, the following terms have the following meaning:
 
 ---
 
+<a id="2"></a>
 ## 2. Purpose and scope
 
 ### 2.1. Purpose
@@ -133,6 +74,7 @@ The User who does not accept the new conditions has a period of 30 days to cease
 
 ---
 
+<a id="3"></a>
 ## 3. Description of services
 
 ### 3.1. Nature of services
@@ -155,6 +97,7 @@ UnxWares reserves the right to evolve its Services, add new ones or remove them,
 
 ---
 
+<a id="4"></a>
 ## 4. Access to services
 
 ### 4.1. Technical requirements
@@ -183,6 +126,7 @@ UnxWares reserves the right to restrict, suspend or temporarily interrupt access
 
 ---
 
+<a id="5"></a>
 ## 5. User account
 
 ### 5.1. Account creation
@@ -215,6 +159,7 @@ The User may delete their Account at any time. Deletion results in permanent los
 
 ---
 
+<a id="6"></a>
 ## 6. User obligations
 
 ### 6.1. Compliant and fair use
@@ -298,6 +243,7 @@ The User undertakes to immediately report to UnxWares any fraudulent or abusive 
 
 ---
 
+<a id="7"></a>
 ## 7. UnxWares obligations
 
 ### 7.1. Provision of services
@@ -363,6 +309,7 @@ UnxWares undertakes not to access the User's Content, except:
 
 ---
 
+<a id="8"></a>
 ## 8. Intellectual property
 
 ### 8.1. UnxWares property
@@ -412,6 +359,7 @@ In case of notification of illicit or counterfeit content, UnxWares reserves the
 
 ---
 
+<a id="9"></a>
 ## 9. Protection of personal data
 
 ### 9.1. Collected data
@@ -521,6 +469,7 @@ A data processing agreement (DPA) can be put in place upon request to formalize 
 
 ---
 
+<a id="10"></a>
 ## 10. Security and backups
 
 ### 10.1. Infrastructure security
@@ -580,6 +529,7 @@ The User undertakes to cooperate and provide any useful information for incident
 
 ---
 
+<a id="11"></a>
 ## 11. Liability and warranties
 
 ### 11.1. Warranty limitation
@@ -649,6 +599,7 @@ UnxWares reserves the right to fully cooperate with competent authorities and co
 
 ---
 
+<a id="12"></a>
 ## 12. Force majeure
 
 ### 12.1. Definition
@@ -683,6 +634,7 @@ If force majeure persists beyond **30 calendar days**, each party may terminate 
 
 ---
 
+<a id="13"></a>
 ## 13. Suspension by UnxWares
 
 ### 13.1. Grounds for suspension
@@ -745,6 +697,7 @@ UnxWares reserves the right to refuse reactivation in case of:
 
 ---
 
+<a id="14"></a>
 ## 14. Modification of ToU
 
 ### 14.1. Right to modify
@@ -781,6 +734,7 @@ The history of previous versions can be provided upon request.
 
 ---
 
+<a id="15"></a>
 ## 15. General provisions
 
 ### 15.1. Entire agreement
@@ -866,6 +820,7 @@ In the absence of an amicable resolution within 30 days, the dispute will be sub
 
 ---
 
+<a id="16"></a>
 ## 16. Contact
 
 For any question relating to these ToU or the Services, the User may contact UnxWares:

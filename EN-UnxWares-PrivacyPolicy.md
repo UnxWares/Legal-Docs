@@ -1,70 +1,9 @@
+<div align="center"><img src="https://github.com/UnxWares/.github/blob/main/unxwares-logo.png?raw=true" align="center" height="" width="400" /></div>
+
 # Privacy Policy
 
 **UnxWares**
 **Last updated: January 28, 2026**
-
----
-
-## ⚡ Summary of key points
-
-**This summary version gives you a quick overview. Only the full version below is legally binding.**
-
-### 🔐 Your data in brief
-
-- **We collect**: name, email, address, connection logs, anti-fraud information
-- **Your payments**: 100% managed by Stripe
-- **Your hosted content**: you own it, we are just a processor
-- **No resale**: we NEVER sell your data to third parties
-- **No advertising tracking**: we do not use marketing analytics for the moment
-
-### 🎯 Why we collect your data
-
-- Create and manage your account
-- Bill your services
-- Provide technical support
-- Prevent fraud and abuse
-- Comply with our legal obligations
-
-### 🛡️ Your GDPR rights
-
-You can at any time:
-
-- ✅ **Access** your data
-- ✏️ **Rectify** your information
-- 🗑️ **Delete** your account and data
-- ⏸️ **Limit** certain processing
-- 📦 **Retrieve** your data (portability)
-- 🚫 **Object** to certain processing
-
-👉 **Contact:** dpo@unxwares.com
-
-### ⏱️ How long we keep your data
-
-- **Active account**: during the entire duration + 3 years after termination
-- **Invoices**: 10 years (legal obligation)
-- **Connection logs**: 12 months
-- **After account deletion**: data erased within 30 days (except legal obligations)
-
-### 🌍 Transfer outside the EU
-
-- **Limited to strict necessity** (Stripe for payments)
-- **Protected** by EU standard contractual clauses
-- **GDPR compliant**
-
-### 🍪 Cookies
-
-- **Technical cookies**: essential for operation (connection, security)
-- **No advertising cookies** for the moment
-- You can manage them in your browser
-
-### 📞 Contact for your data
-
-**Data Protection Officer (DPO)**
-Email: dpo@unxwares.com
-Response within 30 days maximum
-
-**Complaint to supervisory authority**
-If you are not satisfied with our response: contact your national data protection authority
 
 ---
 
@@ -74,22 +13,23 @@ If you are not satisfied with our response: contact your national data protectio
 
 ## Table of contents
 
-1. [Identity of the data controller](#1-identity-of-the-data-controller)
-2. [General principles](#2-general-principles)
-3. [Personal data collected](#3-personal-data-collected)
-4. [Purposes and legal bases of processing](#4-purposes-and-legal-bases-of-processing)
-5. [Recipients of data](#5-recipients-of-data)
-6. [Data transfers outside the European Union](#6-data-transfers-outside-the-european-union)
-7. [Data retention period](#7-data-retention-period)
-8. [Security and confidentiality](#8-security-and-confidentiality)
-9. [Rights of data subjects](#9-rights-of-data-subjects)
-10. [Cookies and trackers](#10-cookies-and-trackers)
-11. [Processing of hosted data (subcontracting)](#11-processing-of-hosted-data-subcontracting)
-12. [Changes to the privacy policy](#12-changes-to-the-privacy-policy)
-13. [Contact and complaints](#13-contact-and-complaints)
+1. [Identity of the data controller](#1)
+2. [General principles](#2)
+3. [Personal data collected](#3)
+4. [Purposes and legal bases of processing](#4)
+5. [Recipients of data](#5)
+6. [Data transfers outside the European Union](#6)
+7. [Data retention period](#7)
+8. [Security and confidentiality](#8)
+9. [Rights of data subjects](#9)
+10. [Cookies and trackers](#10)
+11. [Processing of hosted data (subcontracting)](#11)
+12. [Changes to the privacy policy](#12)
+13. [Contact and complaints](#13)
 
 ---
 
+<a id="1"></a>
 ## 1. Identity of the data controller
 
 **UnxWares**, data controller, is committed to protecting the privacy and personal data of its users in accordance with the **General Data Protection Regulation (GDPR)** - EU Regulation 2016/679 and the French **Data Protection Act** No. 78-17 of January 6, 1978 as amended.
@@ -114,6 +54,7 @@ Email: dpo@unxwares.com
 
 ---
 
+<a id="2"></a>
 ## 2. General principles
 
 UnxWares is committed to processing personal data in compliance with the following fundamental principles:
@@ -148,6 +89,7 @@ UnxWares is able to demonstrate compliance of its processing with GDPR principle
 
 ---
 
+<a id="3"></a>
 ## 3. Personal data collected
 
 ### 3.1. Identification data
@@ -264,6 +206,7 @@ UnxWares is able to demonstrate compliance of its processing with GDPR principle
 
 ---
 
+<a id="4"></a>
 ## 4. Purposes and legal bases of processing
 
 ### 4.1. Creation and management of user account
@@ -363,6 +306,7 @@ UnxWares is able to demonstrate compliance of its processing with GDPR principle
 
 ---
 
+<a id="5"></a>
 ## 5. Recipients of data
 
 ### 5.1. Internal UnxWares services
@@ -484,6 +428,7 @@ In the event of a merger, acquisition, business transfer or any other change of 
 
 ---
 
+<a id="6"></a>
 ## 6. Data transfers outside the European Union
 
 ### 6.1. Limitation principle
@@ -520,6 +465,7 @@ Users can obtain a copy of the safeguards put in place for transfers outside the
 
 ---
 
+<a id="7"></a>
 ## 7. Data retention period
 
 UnxWares only retains personal data for the period strictly necessary for the purposes for which it is processed.
@@ -602,6 +548,7 @@ Data contained in technical backups is deleted during the backup rotation cycle 
 
 ---
 
+<a id="8"></a>
 ## 8. Security and confidentiality
 
 ### 8.1. Security commitment
@@ -695,6 +642,7 @@ Users are also responsible for the security of their own systems, credentials an
 
 ---
 
+<a id="9"></a>
 ## 9. Rights of data subjects
 
 In accordance with GDPR, any person whose personal data is processed by UnxWares has the following rights:
@@ -802,6 +750,7 @@ The exercise of your rights is **free** in principle. However, in case of manife
 
 ---
 
+<a id="10"></a>
 ## 10. Cookies and trackers
 
 ### 10.1. What is a cookie?
@@ -861,6 +810,7 @@ You can configure your browser to:
 
 ---
 
+<a id="11"></a>
 ## 11. Processing of hosted data (subcontracting)
 
 ### 11.1. UnxWares as data processor
@@ -910,6 +860,7 @@ All access is logged and tracked.
 
 ---
 
+<a id="12"></a>
 ## 12. Changes to the privacy policy
 
 ### 12.1. Right to modify
@@ -943,6 +894,7 @@ History of previous versions can be provided upon request.
 
 ---
 
+<a id="13"></a>
 ## 13. Contact and complaints
 
 ### 13.1. Contact for data protection questions

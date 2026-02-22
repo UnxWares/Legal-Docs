@@ -4,6 +4,28 @@
 
 **Última actualización: 10/08/2025**
 
+---
+
+## Tabla de contenidos
+
+1. [Editor del sitio](#1)
+2. [Alojamiento del sitio](#2)
+3. [Propiedad intelectual y condiciones de uso](#3)
+4. [Datos personales](#4)
+5. [Política de seguridad y disponibilidad](#5)
+6. [Condiciones de uso del servicio](#6)
+7. [Condiciones comerciales y facturación](#7)
+8. [Gestión de reclamaciones y litigios](#8)
+9. [Obligaciones legales del alojador (LCEN)](#9)
+10. [Créditos y recursos externos](#10)
+11. [Política de código abierto y propiedad intelectual](#11)
+12. [Accesibilidad digital](#12)
+13. [Medio ambiente y responsabilidad social](#13)
+14. [Contacto e información práctica](#14)
+
+---
+
+<a id="1"></a>
 ## 1. Editor del sitio
 
 Este sitio es editado por **UnxWares**, Sociedad por Acciones Simplificada (SAS) con un capital social de 1.000 €, registrada en el Registro Mercantil de París bajo el número 945 207 991, con domicilio social en:
@@ -26,6 +48,7 @@ Venta de servicios informáticos, consultoría en tecnologías de la informació
 
 ---
 
+<a id="2"></a>
 ## 2. Alojamiento del sitio
 
 El sitio unxwares.com está alojado a través de una arquitectura distribuida que involucra varios proveedores:
@@ -61,6 +84,7 @@ Industriestr. 25, 91710 Gunzenhausen - Alemania
 
 ---
 
+<a id="3"></a>
 ## 3. Propiedad intelectual y condiciones de uso
 
 ### 3.1 Propiedad intelectual
@@ -108,6 +132,7 @@ El uso de los servicios ofrecidos por **UnxWares** implica la aceptación sin re
 
 ---
 
+<a id="4"></a>
 ## 4. Datos personales
 
 **Política de privacidad separada:**
@@ -121,6 +146,7 @@ La información detallada sobre la recopilación, uso, almacenamiento y protecci
 
 ---
 
+<a id="5"></a>
 ## 5. Política de seguridad y disponibilidad
 
 ### 5.1 Compromisos de seguridad
@@ -178,6 +204,7 @@ La información detallada sobre la recopilación, uso, almacenamiento y protecci
 
 ---
 
+<a id="6"></a>
 ## 6. Condiciones de uso del servicio
 
 ### 6.1 Acceso al servicio
@@ -210,6 +237,7 @@ El usuario se compromete a:
 
 ---
 
+<a id="7"></a>
 ## 7. Condiciones comerciales y facturación
 
 ### 7.1 Precios y condiciones de pago
@@ -237,6 +265,7 @@ Para los servicios de consumo, el usuario dispone de un plazo de 14 días para e
 
 ---
 
+<a id="8"></a>
 ## 8. Gestión de reclamaciones y litigios
 
 ### 8.1 Servicio al cliente
@@ -265,6 +294,7 @@ En caso de litigio, y a falta de acuerdo amistoso o mediación exitosa, se atrib
 
 ---
 
+<a id="9"></a>
 ## 9. Obligaciones legales del alojador (LCEN)
 
 ### 9.1 Estatus de alojador
@@ -304,6 +334,7 @@ Toda notificación debe incluir:
 
 ---
 
+<a id="10"></a>
 ## 10. Créditos y recursos externos
 
 ### 10.1 Diseño y realización
@@ -344,6 +375,7 @@ Cualquier uso, reproducción o redistribución no autorizados de elementos prote
 
 ---
 
+<a id="11"></a>
 ## 11. Política de código abierto y propiedad intelectual
 
 ### 11.1 Protección de derechos
@@ -387,6 +419,7 @@ Las contribuciones externas a nuestros proyectos de código abierto son bienveni
 
 ---
 
+<a id="12"></a>
 ## 12. Accesibilidad digital
 
 ### 12.1 Compromiso de accesibilidad
@@ -411,6 +444,7 @@ En caso de no respuesta o respuesta no satisfactoria, puede:
 
 ---
 
+<a id="13"></a>
 ## 13. Medio ambiente y responsabilidad social
 
 ### 13.1 Enfoque eco-responsable
@@ -428,6 +462,7 @@ Nos comprometemos, así como en la selección de nuestros socios de alojamiento,
 
 ---
 
+<a id="14"></a>
 ## 14. Contacto e información práctica
 
 ### 14.1 Datos de contacto completos

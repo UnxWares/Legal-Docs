@@ -1,70 +1,9 @@
+<div align="center"><img src="https://github.com/UnxWares/.github/blob/main/unxwares-logo.png?raw=true" align="center" height="" width="400" /></div>
+
 # Privacyverklaring
 
 **UnxWares**
 **Laatste update: 28 januari 2026**
-
----
-
-## ⚡ Samenvatting van de belangrijkste punten
-
-**Deze verkorte versie geeft u een snel overzicht. Alleen de volledige versie hieronder is juridisch bindend.**
-
-### 🔐 Uw gegevens in het kort
-
-- **Wij verzamelen**: naam, e-mail, adres, verbindingslogs, fraudepreventie-informatie
-- **Uw betalingen**: 100% beheerd door Stripe
-- **Uw gehoste inhoud**: u bent eigenaar, wij zijn slechts verwerker
-- **Geen doorverkoop**: wij verkopen uw gegevens NOOIT aan derden
-- **Geen advertentietracking**: wij gebruiken momenteel geen marketinganalyse
-
-### 🎯 Waarom wij uw gegevens verzamelen
-
-- Uw account aanmaken en beheren
-- Uw diensten factureren
-- Technische ondersteuning bieden
-- Fraude en misbruik voorkomen
-- Onze wettelijke verplichtingen naleven
-
-### 🛡️ Uw AVG-rechten
-
-U kunt te allen tijde:
-
-- ✅ **Toegang krijgen** tot uw gegevens
-- ✏️ **Uw informatie rectificeren**
-- 🗑️ **Uw account en gegevens verwijderen**
-- ⏸️ **Bepaalde verwerkingen beperken**
-- 📦 **Uw gegevens ophalen** (overdraagbaarheid)
-- 🚫 **Bezwaar maken** tegen bepaalde verwerkingen
-
-👉 **Contact:** dpo@unxwares.com
-
-### ⏱️ Hoe lang wij uw gegevens bewaren
-
-- **Actief account**: gedurende de hele duur + 3 jaar na beëindiging
-- **Facturen**: 10 jaar (wettelijke verplichting)
-- **Verbindingslogs**: 12 maanden
-- **Na accountverwijdering**: gegevens gewist binnen 30 dagen (behalve wettelijke verplichtingen)
-
-### 🌍 Overdracht buiten de EU
-
-- **Beperkt tot het strikt noodzakelijke** (Stripe voor betalingen)
-- **Beschermd** door EU-standaardcontractbepalingen
-- **AVG-conform**
-
-### 🍪 Cookies
-
-- **Technische cookies**: essentieel voor de werking (verbinding, beveiliging)
-- **Geen reclamecookies** momenteel
-- U kunt ze beheren in uw browser
-
-### 📞 Contact voor uw gegevens
-
-**Functionaris voor Gegevensbescherming (FG)**
-E-mail: dpo@unxwares.com
-Antwoord binnen maximaal 30 dagen
-
-**Klacht bij toezichthouder**
-Als u niet tevreden bent met ons antwoord: neem contact op met uw nationale gegevensbeschermingsautoriteit
 
 ---
 
@@ -74,22 +13,23 @@ Als u niet tevreden bent met ons antwoord: neem contact op met uw nationale gege
 
 ## Inhoudsopgave
 
-1. [Identiteit van de verwerkingsverantwoordelijke](#1-identiteit-van-de-verwerkingsverantwoordelijke)
-2. [Algemene beginselen](#2-algemene-beginselen)
-3. [Verzamelde persoonsgegevens](#3-verzamelde-persoonsgegevens)
-4. [Doeleinden en rechtsgrondslagen van de verwerking](#4-doeleinden-en-rechtsgrondslagen-van-de-verwerking)
-5. [Ontvangers van gegevens](#5-ontvangers-van-gegevens)
-6. [Gegevensoverdrachten buiten de Europese Unie](#6-gegevensoverdrachten-buiten-de-europese-unie)
-7. [Bewaartermijn van gegevens](#7-bewaartermijn-van-gegevens)
-8. [Beveiliging en vertrouwelijkheid](#8-beveiliging-en-vertrouwelijkheid)
-9. [Rechten van betrokkenen](#9-rechten-van-betrokkenen)
-10. [Cookies en trackers](#10-cookies-en-trackers)
-11. [Verwerking van gehoste gegevens (onderaanneming)](#11-verwerking-van-gehoste-gegevens-onderaanneming)
-12. [Wijzigingen in de privacyverklaring](#12-wijzigingen-in-de-privacyverklaring)
-13. [Contact en klachten](#13-contact-en-klachten)
+1. [Identiteit van de verwerkingsverantwoordelijke](#1)
+2. [Algemene beginselen](#2)
+3. [Verzamelde persoonsgegevens](#3)
+4. [Doeleinden en rechtsgrondslagen van de verwerking](#4)
+5. [Ontvangers van gegevens](#5)
+6. [Gegevensoverdrachten buiten de Europese Unie](#6)
+7. [Bewaartermijn van gegevens](#7)
+8. [Beveiliging en vertrouwelijkheid](#8)
+9. [Rechten van betrokkenen](#9)
+10. [Cookies en trackers](#10)
+11. [Verwerking van gehoste gegevens (onderaanneming)](#11)
+12. [Wijzigingen in de privacyverklaring](#12)
+13. [Contact en klachten](#13)
 
 ---
 
+<a id="1"></a>
 ## 1. Identiteit van de verwerkingsverantwoordelijke
 
 **UnxWares**, verwerkingsverantwoordelijke voor persoonsgegevens, verbindt zich ertoe de privacy en persoonsgegevens van haar gebruikers te beschermen in overeenstemming met de **Algemene Verordening Gegevensbescherming (AVG)** - EU-verordening 2016/679 en de Franse **Wet Informatica en Vrijheden** nr. 78-17 van 6 januari 1978 zoals gewijzigd.
@@ -114,6 +54,7 @@ E-mail: dpo@unxwares.com
 
 ---
 
+<a id="2"></a>
 ## 2. Algemene beginselen
 
 UnxWares verbindt zich ertoe persoonsgegevens te verwerken met inachtneming van de volgende fundamentele beginselen:
@@ -148,6 +89,7 @@ UnxWares kan de naleving van zijn verwerkingen met de AVG-beginselen aantonen.
 
 ---
 
+<a id="3"></a>
 ## 3. Verzamelde persoonsgegevens
 
 ### 3.1. Identificatiegegevens
@@ -264,6 +206,7 @@ UnxWares kan de naleving van zijn verwerkingen met de AVG-beginselen aantonen.
 
 ---
 
+<a id="4"></a>
 ## 4. Doeleinden en rechtsgrondslagen van de verwerking
 
 ### 4.1. Aanmaken en beheer van gebruikersaccount
@@ -363,6 +306,7 @@ UnxWares kan de naleving van zijn verwerkingen met de AVG-beginselen aantonen.
 
 ---
 
+<a id="5"></a>
 ## 5. Ontvangers van gegevens
 
 ### 5.1. Interne UnxWares-diensten
@@ -484,6 +428,7 @@ In geval van een fusie, overname, bedrijfsoverdracht of enige andere verandering
 
 ---
 
+<a id="6"></a>
 ## 6. Gegevensoverdrachten buiten de Europese Unie
 
 ### 6.1. Beperkingsbeginsel
@@ -520,6 +465,7 @@ Gebruikers kunnen een kopie verkrijgen van de waarborgen die zijn ingesteld voor
 
 ---
 
+<a id="7"></a>
 ## 7. Bewaartermijn van gegevens
 
 UnxWares bewaart persoonsgegevens alleen gedurende de periode die strikt noodzakelijk is voor de doeleinden waarvoor ze worden verwerkt.
@@ -602,6 +548,7 @@ Gegevens in technische back-ups worden verwijderd tijdens de back-uprotatiecyclu
 
 ---
 
+<a id="8"></a>
 ## 8. Beveiliging en vertrouwelijkheid
 
 ### 8.1. Beveiligingsverplichting
@@ -695,6 +642,7 @@ Gebruikers zijn ook verantwoordelijk voor de beveiliging van hun eigen systemen,
 
 ---
 
+<a id="9"></a>
 ## 9. Rechten van betrokkenen
 
 In overeenstemming met de AVG heeft elke persoon van wie persoonsgegevens door UnxWares worden verwerkt de volgende rechten:
@@ -802,6 +750,7 @@ De uitoefening van uw rechten is in principe **gratis**. In geval van kennelijk 
 
 ---
 
+<a id="10"></a>
 ## 10. Cookies en trackers
 
 ### 10.1. Wat is een cookie?
@@ -861,6 +810,7 @@ U kunt uw browser configureren om:
 
 ---
 
+<a id="11"></a>
 ## 11. Verwerking van gehoste gegevens (onderaanneming)
 
 ### 11.1. UnxWares als verwerker
@@ -910,6 +860,7 @@ Alle toegang wordt gelogd en getraceerd.
 
 ---
 
+<a id="12"></a>
 ## 12. Wijzigingen in de privacyverklaring
 
 ### 12.1. Recht om te wijzigen
@@ -943,6 +894,7 @@ De geschiedenis van eerdere versies kan op verzoek worden verstrekt.
 
 ---
 
+<a id="13"></a>
 ## 13. Contact en klachten
 
 ### 13.1. Contact voor vragen over gegevensbescherming

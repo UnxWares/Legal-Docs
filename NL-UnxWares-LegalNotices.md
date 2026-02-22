@@ -4,6 +4,28 @@
 
 **Laatst bijgewerkt: 10/08/2025**
 
+---
+
+## Inhoudsopgave
+
+1. [Uitgever van de website](#1)
+2. [Website hosting](#2)
+3. [Intellectueel eigendom en gebruiksvoorwaarden](#3)
+4. [Persoonlijke gegevens](#4)
+5. [Beveiligings- en beschikbaarheidsbeleid](#5)
+6. [Gebruiksvoorwaarden van de dienst](#6)
+7. [Commerciële voorwaarden en facturering](#7)
+8. [Klachtenbeheer en geschillen](#8)
+9. [Wettelijke verplichtingen van de host (LCEN)](#9)
+10. [Credits en externe bronnen](#10)
+11. [Open Source-beleid en intellectueel eigendom](#11)
+12. [Digitale toegankelijkheid](#12)
+13. [Milieu en sociale verantwoordelijkheid](#13)
+14. [Contact en praktische informatie](#14)
+
+---
+
+<a id="1"></a>
 ## 1. Uitgever van de website
 
 Deze website wordt uitgegeven door **UnxWares**, een vereenvoudigde naamloze vennootschap (SAS) met een maatschappelijk kapitaal van € 1.000, ingeschreven in het Handels- en Vennootschapsregister van Parijs onder nummer 945 207 991, met maatschappelijke zetel gevestigd op:
@@ -26,6 +48,7 @@ Verkoop van IT-diensten, informatietechnologie advies, hostingoplossingen, ontwi
 
 ---
 
+<a id="2"></a>
 ## 2. Website hosting
 
 De website unxwares.com wordt gehost via een gedistribueerde architectuur met meerdere providers:
@@ -61,6 +84,7 @@ Industriestr. 25, 91710 Gunzenhausen - Duitsland
 
 ---
 
+<a id="3"></a>
 ## 3. Intellectueel eigendom en gebruiksvoorwaarden
 
 ### 3.1 Intellectueel eigendom
@@ -108,6 +132,7 @@ Het gebruik van de door **UnxWares** aangeboden diensten impliceert onvoorwaarde
 
 ---
 
+<a id="4"></a>
 ## 4. Persoonlijke gegevens
 
 **Afzonderlijk privacybeleid:**
@@ -121,6 +146,7 @@ Gedetailleerde informatie over het verzamelen, gebruiken, opslaan en beschermen 
 
 ---
 
+<a id="5"></a>
 ## 5. Beveiligings- en beschikbaarheidsbeleid
 
 ### 5.1 Beveiligingsverplichtingen
@@ -178,6 +204,7 @@ Gedetailleerde informatie over het verzamelen, gebruiken, opslaan en beschermen 
 
 ---
 
+<a id="6"></a>
 ## 6. Gebruiksvoorwaarden van de dienst
 
 ### 6.1 Toegang tot de dienst
@@ -210,6 +237,7 @@ De gebruiker verbindt zich ertoe:
 
 ---
 
+<a id="7"></a>
 ## 7. Commerciële voorwaarden en facturering
 
 ### 7.1 Prijzen en betalingsvoorwaarden
@@ -237,6 +265,7 @@ Voor consumentendiensten heeft de gebruiker een termijn van 14 dagen om zijn her
 
 ---
 
+<a id="8"></a>
 ## 8. Klachtenbeheer en geschillen
 
 ### 8.1 Klantenservice
@@ -265,6 +294,7 @@ In geval van geschil, en bij gebrek aan minnelijke schikking of succesvolle bemi
 
 ---
 
+<a id="9"></a>
 ## 9. Wettelijke verplichtingen van de host (LCEN)
 
 ### 9.1 Host-status
@@ -304,6 +334,7 @@ Elke melding moet bevatten:
 
 ---
 
+<a id="10"></a>
 ## 10. Credits en externe bronnen
 
 ### 10.1 Ontwerp en productie
@@ -344,6 +375,7 @@ Elk ongeoorloofd gebruik, reproductie of herverdeling van beschermde elementen i
 
 ---
 
+<a id="11"></a>
 ## 11. Open Source-beleid en intellectueel eigendom
 
 ### 11.1 Bescherming van rechten
@@ -387,6 +419,7 @@ Externe bijdragen aan onze open source-projecten zijn welkom volgens onze bijdra
 
 ---
 
+<a id="12"></a>
 ## 12. Digitale toegankelijkheid
 
 ### 12.1 Toegankelijkheidsverplichting
@@ -411,6 +444,7 @@ In geval van geen antwoord of onbevredigend antwoord, kunt u:
 
 ---
 
+<a id="13"></a>
 ## 13. Milieu en sociale verantwoordelijkheid
 
 ### 13.1 Ecologisch verantwoorde aanpak
@@ -428,6 +462,7 @@ Wij verbinden ons, evenals bij de selectie van onze hostingpartners, om zoveel m
 
 ---
 
+<a id="14"></a>
 ## 14. Contact en praktische informatie
 
 ### 14.1 Volledige contactgegevens

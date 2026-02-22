@@ -9,102 +9,31 @@
 
 ---
 
-## ⚡ Résumé des points essentiels
-
-**Cette version résumée vous donne un aperçu rapide. La version complète ci-dessous fait seule foi juridiquement.**
-
-### 💳 Facturation et paiement
-
-- **Facturation au début de chaque période** (hebdo/mensuel/annuel)
-- **Paiement à 15 jours** via Stripe
-- **Suspension automatique au 15e jour** en cas de non-paiement
-- Prix **HT** pour professionnels, **TTC** pour particuliers
-
-### 🎁 Période d'essai
-
-- **Facturation hebdomadaire : 2 jours gratuits**
-- **Facturation mensuelle : 7 jours gratuits**
-- **Facturation annuelle : 21 jours gratuits**
-- **Une seule période d'essai** par service et par client
-- **Résiliation gratuite** à tout moment pendant l'essai
-- **En cas d'abus détecté, facturation immédiate** (comptes multiples, même contenu après résiliation)
-
-### 📅 Engagement et renouvellement
-
-- **Facturation hebdomadaire = engagement minimum 1 mois** (4 semaines)
-- **Renouvellement automatique** sauf résiliation de votre part à l'avance
-- **Période entamée = intégralement due** (pas de remboursement au prorata)
-- Notification avant chaque renouvellement et émission de facture
-
-### ❌ Résiliation par vous
-
-- **Possible à tout moment, sans préavis ni pénalité**
-- **Prend effet à la fin de la période en cours**
-- Doit être faite **AVANT** l'émission de la facture suivante
-- **Période de grâce 7 jours** après résiliation pour récupérer vos données
-- **Suppression définitive après 7 jours** - pensez à sauvegarder !
-
-### 🚫 Résiliation par UnxWares
-
-Possible en cas de :
-
-- Non-paiement persistant après suspension
-- Violation grave des CGU/CGV
-- Activités illégales ou dangereuses
-- Dans tous les cas : sommes dues restent exigibles, pas de remboursement
-
-### 🔄 Droit de rétractation
-
-- **Clients particuliers** : remplacé par la période d'essai gratuite (plus avantageuse)
-- **Clients professionnels** : pas de droit de rétractation (B2B)
-
-### ⚠️ Points à retenir absolument
-
-- **15 jours pour payer sinon suspension immédiate**
-- **Toute période entamée est due intégralement**
-- **Récupérez vos données dans les 7 jours après résiliation**
-- **Facturation hebdo = 1 mois minimum d'engagement**
-- **Abus période d'essai = facturation immédiate + compte fermé**
-
-### 🛡️ Garanties
-
-- Services conformes aux caractéristiques annoncées
-- Garanties légales pour les consommateurs (droits du consomateur)
-- SLA selon votre offre (disponibilité, compensation)
-
-### 🤝 Litiges
-
-- **Privilégiez toujours le contact avec notre support**
-- Médiation gratuite pour les consommateurs
-- Résolution amiable avant toute procédure judiciaire
-- Contact : help@unxwares.com 
-
----
-
 ## 📄 Version complète des CGV
 
 ---
 
 ## Table des matières
 
-1. [Définitions](#1-définitions)
-2. [Objet et champ d'application](#2-objet-et-champ-dapplication)
-3. [Produits et services proposés](#3-produits-et-services-proposés)
-4. [Commande et souscription](#4-commande-et-souscription)
-5. [Tarifs](#5-tarifs)
-6. [Modalités de paiement](#6-modalités-de-paiement)
-7. [Période d'essai et droit de rétractation](#7-période-dessai-et-droit-de-rétractation)
-8. [Durée, renouvellement et résiliation](#8-durée-renouvellement-et-résiliation)
-9. [Livraison et accès aux services](#9-livraison-et-accès-aux-services)
-10. [Résiliation par UnxWares](#10-résiliation-par-unxwares)
-11. [Garanties commerciales](#11-garanties-commerciales)
-12. [Réclamations et litiges](#12-réclamations-et-litiges)
-13. [Modification des CGV](#13-modification-des-cgv)
-14. [Dispositions générales](#14-dispositions-générales)
-15. [Contact](#15-contact)
+1. [Définitions](#1)
+2. [Objet et champ d'application](#2)
+3. [Produits et services proposés](#3)
+4. [Commande et souscription](#4)
+5. [Tarifs](#5)
+6. [Modalités de paiement](#6)
+7. [Période d'essai et droit de rétractation](#7)
+8. [Durée, renouvellement et résiliation](#8)
+9. [Livraison et accès aux services](#9)
+10. [Résiliation par UnxWares](#10)
+11. [Garanties commerciales](#11)
+12. [Réclamations et litiges](#12)
+13. [Modification des CGV](#13)
+14. [Dispositions générales](#14)
+15. [Contact](#15)
 
 ---
 
+<a id="1"></a>
 ## 1. Définitions
 
 Dans les présentes Conditions Générales de Vente, les termes suivants ont la signification suivante :
@@ -128,6 +57,7 @@ Dans les présentes Conditions Générales de Vente, les termes suivants ont la 
 
 ---
 
+<a id="2"></a>
 ## 2. Objet et champ d'application
 
 ### 2.1. Objet
@@ -160,6 +90,7 @@ Le contrat entre UnxWares et le Client est constitué de :
 
 ---
 
+<a id="3"></a>
 ## 3. Produits et services proposés
 
 ### 3.1. Description générale
@@ -198,6 +129,7 @@ UnxWares se réserve le droit de faire évoluer ses offres commerciales, d'en cr
 
 ---
 
+<a id="4"></a>
 ## 4. Commande et souscription
 
 ### 4.1. Processus de commande
@@ -266,6 +198,7 @@ Pour les Clients professionnels, les factures comportent les mentions légales o
 
 ---
 
+<a id="5"></a>
 ## 5. Tarifs
 
 ### 5.1. Tarification
@@ -325,6 +258,7 @@ UnxWares peut proposer des tarifs promotionnels temporaires. Ces promotions :
 
 ---
 
+<a id="6"></a>
 ## 6. Modalités de paiement
 
 ### 6.1. Moyens de paiement acceptés
@@ -485,6 +419,7 @@ La contestation d'une facture ne dispense pas le Client de son obligation de pai
 
 ---
 
+<a id="7"></a>
 ## 7. Période d'essai et droit de rétractation
 
 ### 7.1. Période d'essai gratuite
@@ -567,6 +502,7 @@ Le droit de rétractation ne s'applique pas conformément à l'article L221-3 du
 
 ---
 
+<a id="8"></a>
 ## 8. Durée, renouvellement et résiliation
 
 ### 8.1. Durée du contrat
@@ -660,6 +596,7 @@ La résiliation prendra effet à la fin de la Période de facturation en cours, 
 
 ---
 
+<a id="9"></a>
 ## 9. Livraison et accès aux services
 
 ### 9.1. Fourniture des services
@@ -702,6 +639,7 @@ Le contrat sera alors résilié de plein droit et tout paiement déjà effectué
 
 ---
 
+<a id="10"></a>
 ## 10. Résiliation par UnxWares
 
 ### 10.1. Résiliation pour non-paiement
@@ -756,6 +694,7 @@ Suite à une résiliation pour manquement, UnxWares se réserve le droit de **re
 
 ---
 
+<a id="11"></a>
 ## 11. Garanties commerciales
 
 ### 11.1. Garantie de conformité
@@ -813,6 +752,7 @@ Les garanties ci-dessus ne s'appliquent pas dans les cas suivants :
 
 ---
 
+<a id="12"></a>
 ## 12. Réclamations et litiges
 
 ### 12.1. Service client et réclamations
@@ -888,6 +828,7 @@ Les règles légales de compétence territoriale s'appliquent conformément au C
 
 ---
 
+<a id="13"></a>
 ## 13. Modification des CGV
 
 ### 13.1. Droit de modification
@@ -933,6 +874,7 @@ L'historique des versions précédentes peut être fourni sur demande écrite po
 
 ---
 
+<a id="14"></a>
 ## 14. Dispositions générales
 
 ### 14.1. Intégralité de l'accord
@@ -1035,6 +977,7 @@ Les dispositions des présentes CGV qui, de par leur nature, ont vocation à sur
 
 ---
 
+<a id="15"></a>
 ## 15. Contact
 
 Pour toute question relative aux présentes CGV, aux aspects commerciaux, à la facturation ou aux commandes, le Client peut contacter UnxWares :

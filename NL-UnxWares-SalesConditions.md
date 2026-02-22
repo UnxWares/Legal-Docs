@@ -9,102 +9,31 @@
 
 ---
 
-## ⚡ Samenvatting van essentiële punten
-
-**Deze samenvattingsversie geeft u een snel overzicht. Alleen de volledige versie hieronder is juridisch bindend.**
-
-### 💳 Facturering en betaling
-
-- **Facturering aan het begin van elke periode** (wekelijks/maandelijks/jaarlijks)
-- **Betalingstermijn van 15 dagen** via Stripe
-- **Automatische schorsing op de 15e dag** bij niet-betaling
-- Prijzen **exclusief BTW** voor bedrijven, **inclusief BTW** voor particulieren
-
-### 🎁 Proefperiode
-
-- **Wekelijkse facturering: 2 gratis dagen**
-- **Maandelijkse facturering: 7 gratis dagen**
-- **Jaarlijkse facturering: 21 gratis dagen**
-- **Slechts één proefperiode** per dienst en per klant
-- **Gratis opzegging** op elk moment tijdens de proefperiode
-- **Bij geconstateerd misbruik, onmiddellijke facturering** (meerdere accounts, dezelfde inhoud na opzegging)
-
-### 📅 Verbintenis en verlenging
-
-- **Wekelijkse facturering = minimale verbintenis van 1 maand** (4 weken)
-- **Automatische verlenging** tenzij u vooraf opzegt
-- **Begonnen periode = volledig verschuldigd** (geen pro rata terugbetaling)
-- Melding vóór elke verlenging en uitgifte van factuur
-
-### ❌ Opzegging door u
-
-- **Mogelijk op elk moment, zonder opzegtermijn of boete**
-- **Wordt van kracht aan het einde van de lopende periode**
-- Moet worden gedaan **VOOR** de uitgifte van de volgende factuur
-- **Respijtperiode van 7 dagen** na opzegging om uw gegevens op te halen
-- **Definitieve verwijdering na 7 dagen** - denk aan back-up!
-
-### 🚫 Beëindiging door UnxWares
-
-Mogelijk in geval van:
-
-- Aanhoudende niet-betaling na schorsing
-- Ernstige schending van AVV/Gebruiksvoorwaarden
-- Illegale of gevaarlijke activiteiten
-- In alle gevallen: verschuldigde bedragen blijven opeisbaar, geen terugbetaling
-
-### 🔄 Herroepingsrecht
-
-- **Particuliere klanten**: vervangen door gratis proefperiode (voordeliger)
-- **Zakelijke klanten**: geen herroepingsrecht (B2B)
-
-### ⚠️ Absoluut te onthouden punten
-
-- **15 dagen om te betalen anders onmiddellijke schorsing**
-- **Elke begonnen periode is volledig verschuldigd**
-- **Haal uw gegevens op binnen 7 dagen na opzegging**
-- **Wekelijkse facturering = 1 maand minimale verbintenis**
-- **Misbruik proefperiode = onmiddellijke facturering + gesloten account**
-
-### 🛡️ Garanties
-
-- Diensten conform aangekondigde kenmerken
-- Wettelijke garanties voor consumenten (consumentenrechten)
-- SLA volgens uw abonnement (beschikbaarheid, compensatie)
-
-### 🤝 Geschillen
-
-- **Geef altijd voorrang aan contact met onze ondersteuning**
-- Gratis bemiddeling voor consumenten
-- minnelijke oplossing vóór gerechtelijke procedure
-- Contact: help@unxwares.com
-
----
-
 ## 📄 Volledige versie van de AVV
 
 ---
 
 ## Inhoudsopgave
 
-1. [Definities](#1-definities)
-2. [Voorwerp en toepassingsgebied](#2-voorwerp-en-toepassingsgebied)
-3. [Aangeboden producten en diensten](#3-aangeboden-producten-en-diensten)
-4. [Bestelling en abonnement](#4-bestelling-en-abonnement)
-5. [Tarieven](#5-tarieven)
-6. [Betalingsvoorwaarden](#6-betalingsvoorwaarden)
-7. [Proefperiode en herroepingsrecht](#7-proefperiode-en-herroepingsrecht)
-8. [Looptijd, verlenging en opzegging](#8-looptijd-verlenging-en-opzegging)
-9. [Levering en toegang tot diensten](#9-levering-en-toegang-tot-diensten)
-10. [Beëindiging door UnxWares](#10-beëindiging-door-unxwares)
-11. [Commerciële garanties](#11-commerciële-garanties)
-12. [Klachten en geschillen](#12-klachten-en-geschillen)
-13. [Wijziging van de AVV](#13-wijziging-van-de-avv)
-14. [Algemene bepalingen](#14-algemene-bepalingen)
-15. [Contact](#15-contact)
+1. [Definities](#1)
+2. [Voorwerp en toepassingsgebied](#2)
+3. [Aangeboden producten en diensten](#3)
+4. [Bestelling en abonnement](#4)
+5. [Tarieven](#5)
+6. [Betalingsvoorwaarden](#6)
+7. [Proefperiode en herroepingsrecht](#7)
+8. [Looptijd, verlenging en opzegging](#8)
+9. [Levering en toegang tot diensten](#9)
+10. [Beëindiging door UnxWares](#10)
+11. [Commerciële garanties](#11)
+12. [Klachten en geschillen](#12)
+13. [Wijziging van de AVV](#13)
+14. [Algemene bepalingen](#14)
+15. [Contact](#15)
 
 ---
 
+<a id="1"></a>
 ## 1. Definities
 
 In deze Algemene Verkoopvoorwaarden hebben de volgende termen de volgende betekenis:
@@ -128,6 +57,7 @@ In deze Algemene Verkoopvoorwaarden hebben de volgende termen de volgende beteke
 
 ---
 
+<a id="2"></a>
 ## 2. Voorwerp en toepassingsgebied
 
 ### 2.1. Voorwerp
@@ -160,6 +90,7 @@ Het contract tussen UnxWares en de Klant bestaat uit:
 
 ---
 
+<a id="3"></a>
 ## 3. Aangeboden producten en diensten
 
 ### 3.1. Algemene beschrijving
@@ -198,6 +129,7 @@ UnxWares behoudt zich het recht voor om zijn commerciële aanbiedingen te laten 
 
 ---
 
+<a id="4"></a>
 ## 4. Bestelling en abonnement
 
 ### 4.1. Bestellingsprocedure
@@ -266,6 +198,7 @@ Voor zakelijke Klanten bevatten facturen de verplichte wettelijke vermeldingen i
 
 ---
 
+<a id="5"></a>
 ## 5. Tarieven
 
 ### 5.1. Prijsstelling
@@ -325,6 +258,7 @@ UnxWares kan tijdelijke promotietarieven aanbieden. Deze promoties:
 
 ---
 
+<a id="6"></a>
 ## 6. Betalingsvoorwaarden
 
 ### 6.1. Geaccepteerde betaalmiddelen
@@ -486,6 +420,7 @@ De betwisting van een factuur ontslaat de Klant niet van zijn betalingsverplicht
 
 ---
 
+<a id="7"></a>
 ## 7. Proefperiode en herroepingsrecht
 
 ### 7.1. Gratis proefperiode
@@ -568,6 +503,7 @@ Het herroepingsrecht is niet van toepassing in overeenstemming met B2B-regelgevi
 
 ---
 
+<a id="8"></a>
 ## 8. Looptijd, verlenging en opzegging
 
 ### 8.1. Contractduur
@@ -661,6 +597,7 @@ De opzegging wordt van kracht aan het einde van de lopende Factureringsperiode, 
 
 ---
 
+<a id="9"></a>
 ## 9. Levering en toegang tot diensten
 
 ### 9.1. Levering van de diensten
@@ -703,6 +640,7 @@ Het contract wordt dan van rechtswege beëindigd en elke reeds uitgevoerde betal
 
 ---
 
+<a id="10"></a>
 ## 10. Beëindiging door UnxWares
 
 ### 10.1. Beëindiging wegens niet-betaling
@@ -757,6 +695,7 @@ Na beëindiging wegens schending behoudt UnxWares zich het recht voor om **elk n
 
 ---
 
+<a id="11"></a>
 ## 11. Commerciële garanties
 
 ### 11.1. Conformiteitsgarantie
@@ -807,6 +746,7 @@ Bovenstaande garanties zijn niet van toepassing in de volgende gevallen:
 
 ---
 
+<a id="12"></a>
 ## 12. Klachten en geschillen
 
 ### 12.1. Klantenservice en klachten
@@ -881,6 +821,7 @@ De wettelijke regels van territoriale bevoegdheid zijn van toepassing in overeen
 
 ---
 
+<a id="13"></a>
 ## 13. Wijziging van de AVV
 
 ### 13.1. Wijzigingsrecht
@@ -926,6 +867,7 @@ De geschiedenis van eerdere versies kan op schriftelijk verzoek worden verstrekt
 
 ---
 
+<a id="14"></a>
 ## 14. Algemene bepalingen
 
 ### 14.1. Integraliteit van de overeenkomst
@@ -1028,6 +970,7 @@ De bepalingen van deze AVV die, gezien hun aard, bedoeld zijn om het verstrijken
 
 ---
 
+<a id="15"></a>
 ## 15. Contact
 
 Voor elke vraag met betrekking tot deze AVV, commerciële aspecten, facturering of bestellingen, kan de Klant contact opnemen met UnxWares:

@@ -4,6 +4,28 @@
 
 **Last updated: 08/10/2025**
 
+---
+
+## Table of contents
+
+1. [Website Publisher](#1)
+2. [Website Hosting](#2)
+3. [Intellectual property and terms of use](#3)
+4. [Personal data](#4)
+5. [Security and availability policy](#5)
+6. [Terms of use of the service](#6)
+7. [Commercial terms and billing](#7)
+8. [Complaints and disputes management](#8)
+9. [Legal obligations of the host (LCEN)](#9)
+10. [Credits and external resources](#10)
+11. [Open Source policy and intellectual property](#11)
+12. [Digital accessibility](#12)
+13. [Environment and social responsibility](#13)
+14. [Contact and practical information](#14)
+
+---
+
+<a id="1"></a>
 ## 1. Website Publisher
 
 This website is published by **UnxWares**, a Simplified Joint Stock Company (SAS) with share capital of €1,000, registered with the Paris Trade and Companies Register under number 945 207 991, with its registered office located at:
@@ -26,6 +48,7 @@ Sale of IT services, information technology consulting, hosting solutions, web a
 
 ---
 
+<a id="2"></a>
 ## 2. Website Hosting
 
 The unxwares.com website is hosted via a distributed architecture involving several providers:
@@ -61,6 +84,7 @@ Industriestr. 25, 91710 Gunzenhausen - Germany
 
 ---
 
+<a id="3"></a>
 ## 3. Intellectual property and terms of use
 
 ### 3.1 Intellectual property
@@ -108,6 +132,7 @@ Use of the services offered by **UnxWares** implies unconditional acceptance of 
 
 ---
 
+<a id="4"></a>
 ## 4. Personal data
 
 **Separate privacy policy:**
@@ -121,6 +146,7 @@ Detailed information regarding the collection, use, storage, and protection of y
 
 ---
 
+<a id="5"></a>
 ## 5. Security and availability policy
 
 ### 5.1 Security commitments
@@ -178,6 +204,7 @@ Detailed information regarding the collection, use, storage, and protection of y
 
 ---
 
+<a id="6"></a>
 ## 6. Terms of service use
 
 ### 6.1 Service access
@@ -210,6 +237,7 @@ The user agrees to:
 
 ---
 
+<a id="7"></a>
 ## 7. Commercial terms and billing
 
 ### 7.1 Prices and payment terms
@@ -237,6 +265,7 @@ For consumer services, the user has a 14-day period to exercise their right of w
 
 ---
 
+<a id="8"></a>
 ## 8. Complaints and disputes management
 
 ### 8.1 Customer service
@@ -265,6 +294,7 @@ In case of dispute, and in the absence of amicable agreement or successful media
 
 ---
 
+<a id="9"></a>
 ## 9. Legal obligations of the host (LCEN)
 
 ### 9.1 Host status
@@ -304,6 +334,7 @@ Any report must include:
 
 ---
 
+<a id="10"></a>
 ## 10. Credits and external resources
 
 ### 10.1 Design and production
@@ -344,6 +375,7 @@ Any unauthorized use, reproduction, or redistribution of protected elements is s
 
 ---
 
+<a id="11"></a>
 ## 11. Open Source policy and intellectual property
 
 ### 11.1 Rights protection
@@ -387,6 +419,7 @@ External contributions to our open source projects are welcome according to our 
 
 ---
 
+<a id="12"></a>
 ## 12. Digital accessibility
 
 ### 12.1 Accessibility commitment
@@ -411,6 +444,7 @@ In case of no response or unsatisfactory response, you can:
 
 ---
 
+<a id="13"></a>
 ## 13. Environment and social responsibility
 
 ### 13.1 Eco-responsible approach
@@ -428,6 +462,7 @@ We are committed, as well as in the selection of our hosting partners, to using 
 
 ---
 
+<a id="14"></a>
 ## 14. Contact and practical information
 
 ### 14.1 Complete contact details

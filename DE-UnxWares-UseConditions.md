@@ -1,70 +1,9 @@
+<div align="center"><img src="https://github.com/UnxWares/.github/blob/main/unxwares-logo.png?raw=true" align="center" height="" width="400" /></div>
+
 # Allgemeine Nutzungsbedingungen (AGB)
 
 **UnxWares**
 **Letzte Aktualisierung: 28. Januar 2026**
-
----
-
-## ⚡ Zusammenfassung der wesentlichen Punkte
-
-**Diese zusammengefasste Version gibt Ihnen einen schnellen Überblick. Nur die vollständige Version weiter unten ist rechtlich bindend.**
-
-### 🎯 Was Sie tun können
-
-- Unsere Cloud-Hosting- und Managed-Kubernetes-Dienste für Ihre legitimen Projekte nutzen
-- Ihre Anwendungen, Websites, Datenbanken und legalen Inhalte hosten
-- Von automatischen Backups gemäß Ihrem Tarif profitieren
-- Auf technischen Support im Rahmen Ihres Abonnements zugreifen
-
-### ⛔ Was streng verboten ist
-
-- **Illegale Inhalte**: Fälschung, Phishing, illegale Inhalte, Rechtsverletzungen
-- **Angriffe und Malware**: DDoS, Einbrüche, Viren, jeglicher bösartiger Code
-- **Ressourcenmissbrauch**: unbefugtes Mining, Massen-Spam, Umgehung von Beschränkungen
-- **Ressourcenmonopolisierung**: Änderung von Systemen zur Zuteilung aller Leistungen eines gemeinsam genutzten Servers (entspricht einem dedizierten Angebot)
-- **Unbefugter Weiterverkauf** von Diensten ohne schriftliche Vereinbarung
-
-### 🔒 Ihre persönlichen Daten
-
-- Wir erfassen: Name, E-Mail, Verbindungsdaten, Betrugsbekämpfungsinformationen
-- Sichere Zahlungen über Stripe (wir speichern Ihre Kreditkarten nicht)
-- Sie haben alle DSGVO-Rechte (Zugriff, Berichtigung, Löschung usw.)
-- DSB-Kontakt: dpo@unxwares.com
-
-### 💾 Backups - WICHTIG
-
-- Wir bieten automatische Backups gemäß Ihrem Tarif an
-- **Diese Backups sind KEINE absolute Wiederherstellungsgarantie**
-- **SIE sind für Ihre eigenen externen Backups verantwortlich**
-- Bei Datenverlust: beschränkte Haftung außer bei grober Fahrlässigkeit
-
-### 🔐 Kontosicherheit
-
-- Sie sind für Ihre Zugangsdaten (Passwörter, API-Schlüssel) verantwortlich
-- Wählen Sie ein starkes und einzigartiges Passwort
-- Jede Aktion von Ihrem Konto wird Ihnen zugeschrieben
-- Informieren Sie uns sofort bei verdächtiger Nutzung
-
-### ⚖️ Haftung
-
-- **Sie sind verantwortlich** für Ihre Inhalte und deren Rechtmäßigkeit
-- Unsere Haftung ist auf direkte Schäden begrenzt und gedeckelt (12 Monate Zahlungen, max. 10.000€)
-- Keine Haftung für indirekte Schäden (Umsatzverlust, Daten wenn Sie keine externen Backups haben)
-
-### ⏸️ Mögliche Aussetzung
-
-Wir können Ihre Dienste sofort aussetzen im Falle von:
-
-- Zahlungsverzug (siehe AGB)
-- Schwerer Verstoß gegen die AGB (illegale Inhalte, Angriffe, Missbrauch)
-- Bedrohung der Sicherheit unserer Infrastruktur oder anderer Kunden
-- Anordnung einer Justizbehörde
-
-### 📞 Kontakt und Streitigkeiten
-
-- Support: help@unxwares.com
-- Wir bevorzugen immer einvernehmliche Lösungen
-- Französisches Recht anwendbar, französische Gerichte zuständig
 
 ---
 
@@ -74,25 +13,26 @@ Wir können Ihre Dienste sofort aussetzen im Falle von:
 
 ## Inhaltsverzeichnis
 
-1. [Definitionen](#1-definitionen)
-2. [Zweck und Anwendungsbereich](#2-zweck-und-anwendungsbereich)
-3. [Beschreibung der Dienste](#3-beschreibung-der-dienste)
-4. [Zugang zu den Diensten](#4-zugang-zu-den-diensten)
-5. [Benutzerkonto](#5-benutzerkonto)
-6. [Pflichten des Nutzers](#6-pflichten-des-nutzers)
-7. [Pflichten von UnxWares](#7-pflichten-von-unxwares)
-8. [Geistiges Eigentum](#8-geistiges-eigentum)
-9. [Schutz personenbezogener Daten](#9-schutz-personenbezogener-daten)
-10. [Sicherheit und Backups](#10-sicherheit-und-backups)
-11. [Haftung und Gewährleistung](#11-haftung-und-gewährleistung)
-12. [Höhere Gewalt](#12-höhere-gewalt)
-13. [Aussetzung durch UnxWares](#13-aussetzung-durch-unxwares)
-14. [Änderung der AGB](#14-änderung-der-agb)
-15. [Allgemeine Bestimmungen](#15-allgemeine-bestimmungen)
-16. [Kontakt](#16-kontakt)
+1. [Definitionen](#1)
+2. [Zweck und Anwendungsbereich](#2)
+3. [Beschreibung der Dienste](#3)
+4. [Zugang zu den Diensten](#4)
+5. [Benutzerkonto](#5)
+6. [Pflichten des Nutzers](#6)
+7. [Pflichten von UnxWares](#7)
+8. [Geistiges Eigentum](#8)
+9. [Schutz personenbezogener Daten](#9)
+10. [Sicherheit und Backups](#10)
+11. [Haftung und Gewährleistung](#11)
+12. [Höhere Gewalt](#12)
+13. [Aussetzung durch UnxWares](#13)
+14. [Änderung der AGB](#14)
+15. [Allgemeine Bestimmungen](#15)
+16. [Kontakt](#16)
 
 ---
 
+<a id="1"></a>
 ## 1. Definitionen
 
 In diesen Allgemeinen Nutzungsbedingungen haben die folgenden Begriffe die folgende Bedeutung:
@@ -113,6 +53,7 @@ In diesen Allgemeinen Nutzungsbedingungen haben die folgenden Begriffe die folge
 
 ---
 
+<a id="2"></a>
 ## 2. Zweck und Anwendungsbereich
 
 ### 2.1. Zweck
@@ -133,6 +74,7 @@ Der Nutzer, der die neuen Bedingungen nicht akzeptiert, hat eine Frist von 30 Ta
 
 ---
 
+<a id="3"></a>
 ## 3. Beschreibung der Dienste
 
 ### 3.1. Art der Dienste
@@ -155,6 +97,7 @@ UnxWares behält sich das Recht vor, seine Dienste weiterzuentwickeln, neue hinz
 
 ---
 
+<a id="4"></a>
 ## 4. Zugang zu den Diensten
 
 ### 4.1. Technische Voraussetzungen
@@ -183,6 +126,7 @@ UnxWares behält sich das Recht vor, den Zugang zu den Diensten einzuschränken,
 
 ---
 
+<a id="5"></a>
 ## 5. Benutzerkonto
 
 ### 5.1. Kontoerstellung
@@ -215,6 +159,7 @@ Der Nutzer kann sein Konto jederzeit löschen. Die Löschung führt zum dauerhaf
 
 ---
 
+<a id="6"></a>
 ## 6. Pflichten des Nutzers
 
 ### 6.1. Konforme und faire Nutzung
@@ -298,6 +243,7 @@ Der Nutzer verpflichtet sich, UnxWares unverzüglich jede betrügerische oder mi
 
 ---
 
+<a id="7"></a>
 ## 7. Pflichten von UnxWares
 
 ### 7.1. Bereitstellung der Dienste
@@ -363,6 +309,7 @@ UnxWares verpflichtet sich, nicht auf die Inhalte des Nutzers zuzugreifen, auße
 
 ---
 
+<a id="8"></a>
 ## 8. Geistiges Eigentum
 
 ### 8.1. Eigentum von UnxWares
@@ -412,6 +359,7 @@ Im Falle einer Meldung illegaler oder gefälschter Inhalte behält sich UnxWares
 
 ---
 
+<a id="9"></a>
 ## 9. Schutz personenbezogener Daten
 
 ### 9.1. Erhobene Daten
@@ -521,6 +469,7 @@ Auf Anfrage kann eine Auftragsverarbeitungsvereinbarung (DPA) eingerichtet werde
 
 ---
 
+<a id="10"></a>
 ## 10. Sicherheit und Backups
 
 ### 10.1. Infrastruktursicherheit
@@ -580,6 +529,7 @@ Der Nutzer verpflichtet sich zur Zusammenarbeit und zur Bereitstellung aller nü
 
 ---
 
+<a id="11"></a>
 ## 11. Haftung und Gewährleistung
 
 ### 11.1. Gewährleistungsbeschränkung
@@ -649,6 +599,7 @@ UnxWares behält sich das Recht vor, mit den zuständigen Behörden vollständig
 
 ---
 
+<a id="12"></a>
 ## 12. Höhere Gewalt
 
 ### 12.1. Definition
@@ -683,6 +634,7 @@ Wenn die höhere Gewalt über **30 Kalendertage** hinaus andauert, kann jede Par
 
 ---
 
+<a id="13"></a>
 ## 13. Aussetzung durch UnxWares
 
 ### 13.1. Aussetzungsgründe
@@ -745,6 +697,7 @@ UnxWares behält sich das Recht vor, die Reaktivierung abzulehnen im Falle von:
 
 ---
 
+<a id="14"></a>
 ## 14. Änderung der AGB
 
 ### 14.1. Änderungsrecht
@@ -781,6 +734,7 @@ Die Historie früherer Versionen kann auf Anfrage bereitgestellt werden.
 
 ---
 
+<a id="15"></a>
 ## 15. Allgemeine Bestimmungen
 
 ### 15.1. Gesamtvereinbarung
@@ -866,6 +820,7 @@ In Ermangelung einer einvernehmlichen Lösung innerhalb von 30 Tagen wird die St
 
 ---
 
+<a id="16"></a>
 ## 16. Kontakt
 
 Bei Fragen zu diesen AGB oder den Diensten kann der Nutzer UnxWares kontaktieren:
